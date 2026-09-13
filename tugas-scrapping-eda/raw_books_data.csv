@@ -1,0 +1,1651 @@
+title,category,price_usd,rating,stock_status,num_reviews
+Book Title Item #0001,Arts & Design,94.58,Four,In stock,39
+Book Title Item #0002,History,53.21,Four,In stock,51
+Book Title Item #0003,Business,,Three,In stock,47
+Book Title Item #0004,Arts & Design,78.69,Four,In stock,55
+Book Title Item #0005,Science & Tech,33.99,Five,In stock,43
+Book Title Item #0006,Business,55.54,Three,In stock,43
+Book Title Item #0007,Business,30.64,Five,In stock,39
+Book Title Item #0008,Arts & Design,354.26,Three,In stock,52
+Book Title Item #0009,Non-Fiction,15.45,One,In stock,48
+Book Title Item #0010,Science & Tech,23.76,Three,Out of stock,35
+Book Title Item #0011,Arts & Design,49.61,Three,Out of stock,35
+Book Title Item #0012,Science & Tech,13.46,Three,In stock,53
+Book Title Item #0013,Science & Tech,38.89,One,In stock,40
+Book Title Item #0014,Business,40.63,Five,In stock,49
+Book Title Item #0015,History,50.43,Five,In stock,35
+Book Title Item #0016,Science & Tech,15.5,Four,Out of stock,36
+Book Title Item #0017,Self-Help,13.99,Two,Out of stock,49
+Book Title Item #0018,Business,60.49,Two,In stock,43
+Book Title Item #0019,Non-Fiction,40.65,One,In stock,39
+Book Title Item #0020,History,30.87,Four,In stock,46
+Book Title Item #0021,Self-Help,15.14,Five,In stock,42
+Book Title Item #0022,Self-Help,29.77,Three,In stock,46
+Book Title Item #0023,Non-Fiction,20.06,Two,In stock,43
+Book Title Item #0024,History,58.88,Four,In stock,49
+Book Title Item #0025,Business,17.47,Three,In stock,40
+Book Title Item #0026,,32.76,Three,In stock,47
+Book Title Item #0027,,55.81,Four,In stock,45
+Book Title Item #0028,Non-Fiction,50.71,Four,In stock,37
+Book Title Item #0029,Self-Help,28.9,Two,In stock,35
+Book Title Item #0030,Business,51.06,One,In stock,50
+Book Title Item #0031,History,55.86,Five,In stock,54
+Book Title Item #0032,Fiction,39.69,Three,Out of stock,44
+Book Title Item #0033,Fiction,46.56,One,In stock,55
+Book Title Item #0034,Science & Tech,32.99,Two,In stock,38
+Book Title Item #0035,Science & Tech,64.61,One,In stock,47
+Book Title Item #0036,Arts & Design,35.44,Three,In stock,47
+Book Title Item #0037,Non-Fiction,515.89,Five,In stock,45
+Book Title Item #0038,History,47.85,Three,In stock,51
+Book Title Item #0039,History,,Three,Out of stock,48
+Book Title Item #0040,Arts & Design,69.13,Four,In stock,40
+Book Title Item #0041,Self-Help,45.77,Four,In stock,39
+Book Title Item #0042,Self-Help,12.12,Five,In stock,46
+Book Title Item #0043,Arts & Design,57.18,Five,Out of stock,48
+Book Title Item #0044,Self-Help,42.86,One,In stock,48
+Book Title Item #0045,Science & Tech,,Four,In stock,39
+Book Title Item #0046,History,37.92,Four,In stock,42
+Book Title Item #0047,Arts & Design,67.44,Five,Out of stock,32
+Book Title Item #0048,History,25.38,Four,In stock,41
+Book Title Item #0049,Fiction,58.61,Five,In stock,49
+Book Title Item #0050,Science & Tech,43.54,Four,In stock,42
+Book Title Item #0051,Business,14.05,Three,In stock,57
+Book Title Item #0052,Science & Tech,13.42,Four,In stock,40
+Book Title Item #0053,Arts & Design,31.46,Five,In stock,52
+Book Title Item #0054,Business,23.67,Five,In stock,59
+Book Title Item #0055,Fiction,12.09,Two,Out of stock,38
+Book Title Item #0056,Arts & Design,18.68,Four,In stock,43
+Book Title Item #0057,Non-Fiction,33.85,Three,In stock,36
+Book Title Item #0058,History,23.39,One,Out of stock,45
+Book Title Item #0059,Fiction,106.94,Three,In stock,42
+Book Title Item #0060,History,25.66,Three,In stock,49
+Book Title Item #0061,Self-Help,65.74,Five,In stock,38
+Book Title Item #0062,Non-Fiction,80.43,Three,In stock,52
+Book Title Item #0063,Non-Fiction,27.88,Five,In stock,41
+Book Title Item #0064,Fiction,26.63,One,Out of stock,41
+Book Title Item #0065,Non-Fiction,28.22,Three,In stock,50
+Book Title Item #0066,Business,33.81,Three,In stock,34
+Book Title Item #0067,Non-Fiction,30.22,Three,In stock,37
+Book Title Item #0068,History,19.06,One,In stock,37
+Book Title Item #0069,History,44.21,Two,Out of stock,58
+Book Title Item #0070,Arts & Design,30.16,Four,Out of stock,42
+Book Title Item #0071,History,108.98,Three,In stock,43
+Book Title Item #0072,Arts & Design,59.11,Three,In stock,39
+Book Title Item #0073,History,30.4,Three,In stock,41
+Book Title Item #0074,Business,49.85,Five,In stock,41
+Book Title Item #0075,Arts & Design,48.87,Five,In stock,32
+Book Title Item #0076,Science & Tech,63.27,Four,In stock,43
+Book Title Item #0077,Self-Help,13.5,Three,In stock,42
+Book Title Item #0078,Fiction,18.13,Two,In stock,40
+Book Title Item #0079,History,23.18,Five,In stock,31
+Book Title Item #0080,Non-Fiction,281.25,One,In stock,37
+Book Title Item #0081,History,22.79,Three,In stock,50
+Book Title Item #0082,Non-Fiction,70.57,Three,In stock,46
+Book Title Item #0083,Self-Help,19.54,Three,In stock,45
+Book Title Item #0084,Self-Help,41.93,Two,Out of stock,41
+Book Title Item #0085,Self-Help,,Four,In stock,38
+Book Title Item #0086,Non-Fiction,45.61,Two,In stock,55
+Book Title Item #0087,History,53.15,Four,In stock,46
+Book Title Item #0088,Self-Help,61.1,Two,In stock,36
+Book Title Item #0089,Business,77.37,One,Out of stock,45
+Book Title Item #0090,Arts & Design,,Five,In stock,44
+Book Title Item #0091,Non-Fiction,23.28,Two,In stock,47
+Book Title Item #0092,Non-Fiction,45.91,Five,Out of stock,46
+Book Title Item #0093,History,45.5,Four,In stock,51
+Book Title Item #0094,Non-Fiction,55.84,One,In stock,37
+Book Title Item #0095,Non-Fiction,15.78,Five,In stock,49
+Book Title Item #0096,Self-Help,54.14,Three,In stock,43
+Book Title Item #0097,History,17.15,Five,In stock,48
+Book Title Item #0098,Self-Help,42.5,Two,In stock,47
+Book Title Item #0099,Arts & Design,29.75,Five,In stock,71
+Book Title Item #0100,Arts & Design,67.01,One,Out of stock,47
+Book Title Item #0101,Self-Help,,Four,In stock,53
+Book Title Item #0102,Arts & Design,40.55,Four,In stock,51
+Book Title Item #0103,History,45.68,Five,In stock,38
+Book Title Item #0104,Fiction,30.39,Five,In stock,42
+Book Title Item #0105,Self-Help,40.54,Five,In stock,49
+Book Title Item #0106,Business,28.47,Five,Out of stock,35
+Book Title Item #0107,Business,39.56,Two,In stock,47
+Book Title Item #0108,Non-Fiction,44.74,Three,In stock,50
+Book Title Item #0109,Arts & Design,27.75,Three,In stock,43
+Book Title Item #0110,Business,34.49,Three,In stock,41
+Book Title Item #0111,Non-Fiction,11.38,Three,Out of stock,53
+Book Title Item #0112,Fiction,29.67,Four,In stock,49
+Book Title Item #0113,History,18.43,Two,Out of stock,38
+Book Title Item #0114,History,33.63,Four,In stock,53
+Book Title Item #0115,History,64.39,Two,In stock,48
+Book Title Item #0116,Business,70.15,Three,In stock,52
+Book Title Item #0117,Fiction,32.83,Four,In stock,40
+Book Title Item #0118,Business,19.37,Four,In stock,39
+Book Title Item #0119,Arts & Design,18.46,Four,In stock,38
+Book Title Item #0120,Business,58.01,Four,In stock,42
+Book Title Item #0121,Fiction,33.11,Two,In stock,45
+Book Title Item #0122,Fiction,38.47,Four,In stock,40
+Book Title Item #0123,Arts & Design,,Two,In stock,47
+Book Title Item #0124,Fiction,47.95,Three,Out of stock,41
+Book Title Item #0125,Fiction,36.43,Three,In stock,45
+Book Title Item #0126,History,52.96,One,In stock,49
+Book Title Item #0127,Arts & Design,53.34,Three,In stock,44
+Book Title Item #0128,Science & Tech,21.82,Five,In stock,52
+Book Title Item #0129,Science & Tech,43.75,Five,In stock,55
+Book Title Item #0130,Fiction,,Three,In stock,44
+Book Title Item #0131,Science & Tech,47.62,One,In stock,47
+Book Title Item #0132,Science & Tech,423.68,Two,Out of stock,44
+Book Title Item #0133,Fiction,24.32,Three,In stock,44
+Book Title Item #0134,Science & Tech,24.56,Five,In stock,45
+Book Title Item #0135,Business,36.71,Two,In stock,51
+Book Title Item #0136,Non-Fiction,26.1,Four,In stock,46
+Book Title Item #0137,Arts & Design,60.74,Two,In stock,44
+Book Title Item #0138,Non-Fiction,33.72,Five,In stock,50
+Book Title Item #0139,Fiction,25.31,Three,In stock,48
+Book Title Item #0140,History,61.53,Four,In stock,46
+Book Title Item #0141,Arts & Design,527.6,Three,In stock,41
+Book Title Item #0142,Fiction,36.52,Four,In stock,46
+Book Title Item #0143,History,27.05,Two,In stock,37
+Book Title Item #0144,Non-Fiction,110.91,Two,In stock,36
+Book Title Item #0145,Fiction,36.55,Five,Out of stock,44
+Book Title Item #0146,Arts & Design,22.71,Five,In stock,51
+Book Title Item #0147,Arts & Design,37.73,Five,In stock,51
+Book Title Item #0148,Self-Help,33.61,Four,In stock,35
+Book Title Item #0149,Business,24.68,Five,In stock,44
+Book Title Item #0150,Science & Tech,60.54,One,In stock,50
+Book Title Item #0151,History,50.82,Three,In stock,43
+Book Title Item #0152,Self-Help,42.7,Three,In stock,39
+Book Title Item #0153,Science & Tech,23.75,Four,In stock,43
+Book Title Item #0154,Science & Tech,87.25,Three,In stock,38
+Book Title Item #0155,Fiction,44.53,Two,In stock,53
+Book Title Item #0156,Science & Tech,26.93,Four,Out of stock,42
+Book Title Item #0157,,63.43,Five,In stock,34
+Book Title Item #0158,Arts & Design,39.29,Three,In stock,49
+Book Title Item #0159,Self-Help,,Two,In stock,49
+Book Title Item #0160,Science & Tech,45.52,Two,In stock,44
+Book Title Item #0161,Fiction,101.64,Three,In stock,61
+Book Title Item #0162,Business,20.73,Three,In stock,58
+Book Title Item #0163,Non-Fiction,27.7,Four,Out of stock,46
+Book Title Item #0164,Arts & Design,137.35,Four,In stock,39
+Book Title Item #0165,Arts & Design,35.13,Four,In stock,39
+Book Title Item #0166,Self-Help,19.59,Three,In stock,43
+Book Title Item #0167,Arts & Design,49.37,Five,In stock,44
+Book Title Item #0168,Science & Tech,63.49,Three,In stock,46
+Book Title Item #0169,Fiction,34.87,Four,Out of stock,37
+Book Title Item #0170,Arts & Design,12.6,Five,Out of stock,40
+Book Title Item #0171,Arts & Design,22.37,Two,In stock,41
+Book Title Item #0172,Non-Fiction,15.11,Two,In stock,36
+Book Title Item #0173,Non-Fiction,94.43,Five,In stock,47
+Book Title Item #0174,History,14.47,Three,In stock,40
+Book Title Item #0175,Business,27.03,Four,Out of stock,43
+Book Title Item #0176,Science & Tech,48.61,One,In stock,39
+Book Title Item #0177,Arts & Design,18.17,Four,In stock,43
+Book Title Item #0178,Arts & Design,,Three,In stock,49
+Book Title Item #0179,Fiction,25.35,One,In stock,53
+Book Title Item #0180,History,43.76,Four,Out of stock,51
+Book Title Item #0181,Business,31.61,Three,In stock,35
+Book Title Item #0182,History,34.02,Three,In stock,44
+Book Title Item #0183,Self-Help,62.65,Two,In stock,37
+Book Title Item #0184,Business,19.27,Two,In stock,43
+Book Title Item #0185,Arts & Design,43.66,Three,In stock,55
+Book Title Item #0186,Arts & Design,55.56,Two,In stock,40
+Book Title Item #0187,Business,18.26,Five,In stock,45
+Book Title Item #0188,Arts & Design,15.16,One,In stock,40
+Book Title Item #0189,Science & Tech,31.94,Four,In stock,38
+Book Title Item #0190,Business,10.99,Two,In stock,49
+Book Title Item #0191,History,42.23,Three,In stock,48
+Book Title Item #0192,Business,51.47,Five,In stock,61
+Book Title Item #0193,Arts & Design,16.73,Two,In stock,40
+Book Title Item #0194,Science & Tech,56.62,Five,In stock,58
+Book Title Item #0195,Science & Tech,67.42,Three,In stock,51
+Book Title Item #0196,Self-Help,44.64,Four,In stock,45
+Book Title Item #0197,History,69.78,Four,Out of stock,38
+Book Title Item #0198,Non-Fiction,31.0,Five,In stock,36
+Book Title Item #0199,Non-Fiction,27.36,Four,In stock,58
+Book Title Item #0200,Business,34.49,Four,In stock,46
+Book Title Item #0201,Self-Help,20.69,Two,In stock,41
+Book Title Item #0202,Fiction,26.78,Two,In stock,41
+Book Title Item #0203,Business,37.17,Five,In stock,66
+Book Title Item #0204,Self-Help,39.8,Three,In stock,50
+Book Title Item #0205,History,46.7,Three,In stock,47
+Book Title Item #0206,History,10.95,Four,In stock,41
+Book Title Item #0207,History,135.98,Three,In stock,48
+Book Title Item #0208,History,21.9,Five,In stock,49
+Book Title Item #0209,History,51.35,Four,In stock,57
+Book Title Item #0210,Self-Help,42.72,Four,In stock,53
+Book Title Item #0211,Self-Help,25.86,Five,Out of stock,43
+Book Title Item #0212,Science & Tech,48.96,One,In stock,43
+Book Title Item #0213,Non-Fiction,22.17,Three,In stock,51
+Book Title Item #0214,Arts & Design,36.39,Four,Out of stock,51
+Book Title Item #0215,History,94.49,Three,In stock,41
+Book Title Item #0216,Fiction,28.97,Four,In stock,55
+Book Title Item #0217,Arts & Design,38.33,Five,In stock,54
+Book Title Item #0218,Self-Help,20.19,Three,Out of stock,48
+Book Title Item #0219,Fiction,51.96,Three,Out of stock,48
+Book Title Item #0220,Fiction,24.13,Five,In stock,45
+Book Title Item #0221,Fiction,43.16,Three,In stock,42
+Book Title Item #0222,Science & Tech,61.0,Four,In stock,34
+Book Title Item #0223,Self-Help,32.29,Three,In stock,43
+Book Title Item #0224,Fiction,49.37,Five,In stock,49
+Book Title Item #0225,History,44.48,Four,In stock,47
+Book Title Item #0226,Business,62.2,Four,In stock,52
+Book Title Item #0227,Fiction,49.51,Five,In stock,55
+Book Title Item #0228,Science & Tech,69.5,Three,In stock,54
+Book Title Item #0229,Arts & Design,32.14,Three,In stock,46
+Book Title Item #0230,Self-Help,17.91,Five,In stock,55
+Book Title Item #0231,Science & Tech,14.38,Three,In stock,40
+Book Title Item #0232,Fiction,15.19,Four,In stock,43
+Book Title Item #0233,Self-Help,362.98,Five,In stock,40
+Book Title Item #0234,Business,40.43,Four,In stock,32
+Book Title Item #0235,Fiction,25.14,Four,In stock,38
+Book Title Item #0236,Science & Tech,10.05,Five,Out of stock,32
+Book Title Item #0237,Non-Fiction,25.39,Five,In stock,39
+Book Title Item #0238,History,28.89,Three,In stock,44
+Book Title Item #0239,Arts & Design,36.6,One,In stock,50
+Book Title Item #0240,Science & Tech,74.49,Three,In stock,48
+Book Title Item #0241,Self-Help,12.9,Four,In stock,56
+Book Title Item #0242,Fiction,52.25,Four,In stock,46
+Book Title Item #0243,History,49.64,Four,In stock,42
+Book Title Item #0244,Fiction,32.29,Three,In stock,48
+Book Title Item #0245,Self-Help,45.3,Four,In stock,49
+Book Title Item #0246,Fiction,33.43,Two,Out of stock,37
+Book Title Item #0247,Non-Fiction,49.1,Four,In stock,43
+Book Title Item #0248,History,22.78,Four,In stock,40
+Book Title Item #0249,History,21.32,Three,In stock,54
+Book Title Item #0250,Self-Help,,Three,In stock,35
+Book Title Item #0251,Arts & Design,45.41,Four,In stock,35
+Book Title Item #0252,Non-Fiction,26.56,Four,In stock,38
+Book Title Item #0253,Science & Tech,327.31,Three,In stock,53
+Book Title Item #0254,Fiction,21.51,Five,In stock,47
+Book Title Item #0255,Business,49.05,Four,In stock,53
+Book Title Item #0256,Fiction,40.24,Five,In stock,49
+Book Title Item #0257,Fiction,21.91,Three,In stock,39
+Book Title Item #0258,Science & Tech,72.93,Four,In stock,43
+Book Title Item #0259,Fiction,35.54,Five,In stock,44
+Book Title Item #0260,Non-Fiction,,Four,In stock,47
+Book Title Item #0261,Non-Fiction,39.8,Four,In stock,43
+Book Title Item #0262,History,31.74,Three,In stock,40
+Book Title Item #0263,Self-Help,45.51,Three,In stock,44
+Book Title Item #0264,Arts & Design,65.21,Two,In stock,34
+Book Title Item #0265,Business,31.45,Three,In stock,39
+Book Title Item #0266,Fiction,53.98,One,In stock,43
+Book Title Item #0267,Fiction,25.13,One,In stock,47
+Book Title Item #0268,Science & Tech,87.53,Five,In stock,44
+Book Title Item #0269,Self-Help,23.35,Three,In stock,38
+Book Title Item #0270,Non-Fiction,103.3,Four,In stock,54
+Book Title Item #0271,Business,18.35,Five,In stock,43
+Book Title Item #0272,History,30.54,Four,In stock,45
+Book Title Item #0273,Non-Fiction,46.73,Two,In stock,46
+Book Title Item #0274,Self-Help,67.49,Four,Out of stock,38
+Book Title Item #0275,Arts & Design,80.51,Four,In stock,36
+Book Title Item #0276,History,74.96,Four,In stock,39
+Book Title Item #0277,Arts & Design,45.82,Four,In stock,41
+Book Title Item #0278,Science & Tech,24.12,Five,In stock,49
+Book Title Item #0279,Science & Tech,60.19,Four,In stock,37
+Book Title Item #0280,Fiction,,Three,In stock,52
+Book Title Item #0281,Arts & Design,43.3,Four,Out of stock,47
+Book Title Item #0282,Self-Help,27.62,One,In stock,47
+Book Title Item #0283,Business,19.9,Five,In stock,34
+Book Title Item #0284,History,24.98,Two,Out of stock,38
+Book Title Item #0285,Non-Fiction,24.3,Three,Out of stock,48
+Book Title Item #0286,Self-Help,37.65,Five,In stock,47
+Book Title Item #0287,Self-Help,61.75,Four,In stock,46
+Book Title Item #0288,,,Three,In stock,52
+Book Title Item #0289,Arts & Design,19.07,Four,In stock,39
+Book Title Item #0290,Fiction,52.63,Five,In stock,45
+Book Title Item #0291,Fiction,406.32,Three,In stock,45
+Book Title Item #0292,History,38.92,Five,In stock,50
+Book Title Item #0293,Science & Tech,25.42,Two,In stock,41
+Book Title Item #0294,Self-Help,21.24,Four,In stock,43
+Book Title Item #0295,Business,50.98,Five,In stock,53
+Book Title Item #0296,Science & Tech,79.13,Two,In stock,45
+Book Title Item #0297,History,31.35,Three,In stock,50
+Book Title Item #0298,History,27.63,Two,In stock,43
+Book Title Item #0299,Science & Tech,38.44,Four,In stock,50
+Book Title Item #0300,History,54.84,Four,In stock,39
+Book Title Item #0301,Science & Tech,24.44,Four,In stock,40
+Book Title Item #0302,Non-Fiction,41.61,Two,Out of stock,50
+Book Title Item #0303,Science & Tech,47.91,Three,In stock,44
+Book Title Item #0304,Arts & Design,543.96,One,In stock,33
+Book Title Item #0305,Science & Tech,20.26,Three,In stock,47
+Book Title Item #0306,History,22.53,Four,In stock,43
+Book Title Item #0307,Arts & Design,38.73,Five,In stock,31
+Book Title Item #0308,History,,Four,In stock,45
+Book Title Item #0309,Fiction,100.55,Three,In stock,35
+Book Title Item #0310,Fiction,19.54,Five,In stock,35
+Book Title Item #0311,Arts & Design,42.17,Four,In stock,38
+Book Title Item #0312,Non-Fiction,36.96,Five,In stock,53
+Book Title Item #0313,Fiction,29.14,Four,In stock,41
+Book Title Item #0314,Science & Tech,65.72,Three,In stock,45
+Book Title Item #0315,History,49.47,One,In stock,48
+Book Title Item #0316,Fiction,50.24,Four,In stock,55
+Book Title Item #0317,Fiction,18.9,Two,In stock,36
+Book Title Item #0318,Non-Fiction,30.56,Three,In stock,38
+Book Title Item #0319,Arts & Design,37.99,Four,In stock,40
+Book Title Item #0320,Arts & Design,40.45,Four,In stock,43
+Book Title Item #0321,Self-Help,113.67,Four,In stock,39
+Book Title Item #0322,Non-Fiction,31.46,Two,In stock,42
+Book Title Item #0323,,8.63,Three,In stock,53
+Book Title Item #0324,Arts & Design,38.26,Four,In stock,48
+Book Title Item #0325,History,48.01,Five,In stock,44
+Book Title Item #0326,Non-Fiction,38.06,Four,In stock,50
+Book Title Item #0327,Fiction,7.2,Five,In stock,48
+Book Title Item #0328,History,43.09,Four,In stock,31
+Book Title Item #0329,,48.78,Four,In stock,49
+Book Title Item #0330,Fiction,17.86,Two,In stock,43
+Book Title Item #0331,Non-Fiction,25.3,Four,In stock,45
+Book Title Item #0332,Fiction,,Four,In stock,44
+Book Title Item #0333,Self-Help,27.17,Four,In stock,40
+Book Title Item #0334,History,29.59,Four,In stock,53
+Book Title Item #0335,Business,43.29,Four,In stock,51
+Book Title Item #0336,Business,26.19,Three,In stock,36
+Book Title Item #0337,,15.36,Four,In stock,43
+Book Title Item #0338,Arts & Design,58.41,Two,In stock,42
+Book Title Item #0339,Fiction,20.58,Five,In stock,49
+Book Title Item #0340,Fiction,33.07,Two,In stock,42
+Book Title Item #0341,Science & Tech,28.05,Two,In stock,42
+Book Title Item #0342,Science & Tech,19.09,Three,In stock,33
+Book Title Item #0343,Science & Tech,57.48,Four,In stock,41
+Book Title Item #0344,History,54.37,Three,Out of stock,41
+Book Title Item #0345,Self-Help,29.91,Three,In stock,40
+Book Title Item #0346,Fiction,36.69,Four,In stock,43
+Book Title Item #0347,History,39.17,Three,Out of stock,45
+Book Title Item #0348,Science & Tech,19.69,Five,In stock,47
+Book Title Item #0349,Fiction,21.2,Five,In stock,30
+Book Title Item #0350,History,36.39,Four,In stock,53
+Book Title Item #0351,Self-Help,18.84,Three,In stock,54
+Book Title Item #0352,History,36.21,Four,In stock,48
+Book Title Item #0353,Self-Help,9.75,One,In stock,44
+Book Title Item #0354,Science & Tech,29.04,Four,In stock,49
+Book Title Item #0355,Self-Help,42.9,Three,In stock,36
+Book Title Item #0356,Fiction,41.22,Five,In stock,32
+Book Title Item #0357,,65.0,One,In stock,47
+Book Title Item #0358,Fiction,19.67,Four,In stock,47
+Book Title Item #0359,Business,35.29,Four,In stock,49
+Book Title Item #0360,Non-Fiction,58.65,Four,In stock,46
+Book Title Item #0361,Self-Help,42.72,Two,In stock,42
+Book Title Item #0362,Non-Fiction,55.35,Five,In stock,36
+Book Title Item #0363,Non-Fiction,18.86,Four,In stock,35
+Book Title Item #0364,Self-Help,38.23,Four,In stock,42
+Book Title Item #0365,Science & Tech,32.71,Three,In stock,39
+Book Title Item #0366,Business,38.79,Four,Out of stock,44
+Book Title Item #0367,Fiction,23.7,Three,In stock,41
+Book Title Item #0368,History,69.79,One,In stock,49
+Book Title Item #0369,Fiction,52.26,Two,In stock,49
+Book Title Item #0370,History,65.46,Five,Out of stock,35
+Book Title Item #0371,Fiction,42.85,Three,In stock,45
+Book Title Item #0372,Self-Help,25.03,Two,In stock,37
+Book Title Item #0373,Business,50.42,Four,In stock,46
+Book Title Item #0374,History,70.17,Four,Out of stock,59
+Book Title Item #0375,Arts & Design,42.82,One,In stock,56
+Book Title Item #0376,Science & Tech,22.06,Four,In stock,50
+Book Title Item #0377,Fiction,26.87,Two,Out of stock,47
+Book Title Item #0378,Fiction,37.75,One,In stock,48
+Book Title Item #0379,History,74.83,One,In stock,39
+Book Title Item #0380,Science & Tech,86.78,Five,In stock,45
+Book Title Item #0381,Science & Tech,23.01,Two,In stock,52
+Book Title Item #0382,Self-Help,44.56,One,In stock,46
+Book Title Item #0383,Arts & Design,26.69,Three,Out of stock,52
+Book Title Item #0384,Self-Help,17.88,Five,In stock,47
+Book Title Item #0385,Self-Help,49.74,Three,In stock,37
+Book Title Item #0386,Self-Help,39.97,Three,Out of stock,39
+Book Title Item #0387,Self-Help,41.29,One,In stock,48
+Book Title Item #0388,Self-Help,33.87,Three,In stock,48
+Book Title Item #0389,Business,43.33,Four,In stock,55
+Book Title Item #0390,Science & Tech,42.49,Four,In stock,41
+Book Title Item #0391,Self-Help,56.37,Three,In stock,43
+Book Title Item #0392,Science & Tech,23.55,Three,In stock,57
+Book Title Item #0393,Science & Tech,57.75,Two,In stock,57
+Book Title Item #0394,Non-Fiction,53.65,Three,In stock,46
+Book Title Item #0395,Business,43.82,Two,In stock,52
+Book Title Item #0396,Self-Help,37.59,Four,Out of stock,46
+Book Title Item #0397,Fiction,35.18,Five,In stock,41
+Book Title Item #0398,History,35.34,Five,In stock,53
+Book Title Item #0399,Arts & Design,37.59,Five,In stock,53
+Book Title Item #0400,Fiction,15.75,Four,In stock,45
+Book Title Item #0401,Business,106.55,Four,In stock,48
+Book Title Item #0402,History,63.03,Three,In stock,50
+Book Title Item #0403,Business,87.23,Four,Out of stock,32
+Book Title Item #0404,Science & Tech,50.83,Four,Out of stock,47
+Book Title Item #0405,,26.28,Four,In stock,33
+Book Title Item #0406,,47.3,Four,Out of stock,46
+Book Title Item #0407,Fiction,56.12,Three,In stock,49
+Book Title Item #0408,Fiction,22.05,Three,In stock,42
+Book Title Item #0409,History,69.45,Five,In stock,48
+Book Title Item #0410,History,29.4,One,In stock,46
+Book Title Item #0411,Self-Help,53.27,Four,In stock,49
+Book Title Item #0412,Business,74.53,Five,In stock,47
+Book Title Item #0413,Self-Help,42.75,Four,In stock,39
+Book Title Item #0414,Business,74.8,Four,In stock,44
+Book Title Item #0415,Self-Help,16.16,Three,In stock,45
+Book Title Item #0416,Science & Tech,19.84,Three,Out of stock,45
+Book Title Item #0417,History,23.5,Five,In stock,44
+Book Title Item #0418,Fiction,11.0,Four,In stock,42
+Book Title Item #0419,Business,13.91,Four,In stock,46
+Book Title Item #0420,Business,74.88,Two,In stock,46
+Book Title Item #0421,Fiction,539.2,One,In stock,42
+Book Title Item #0422,Self-Help,27.02,Five,In stock,30
+Book Title Item #0423,Business,102.95,Three,In stock,33
+Book Title Item #0424,Arts & Design,31.53,Four,Out of stock,52
+Book Title Item #0425,Science & Tech,89.08,One,In stock,48
+Book Title Item #0426,History,90.02,Four,In stock,54
+Book Title Item #0427,Fiction,26.24,Five,In stock,41
+Book Title Item #0428,History,56.11,Four,In stock,43
+Book Title Item #0429,Arts & Design,64.22,Two,In stock,43
+Book Title Item #0430,Business,25.88,Four,In stock,49
+Book Title Item #0431,Business,7.6,Four,In stock,52
+Book Title Item #0432,Arts & Design,55.39,Three,In stock,49
+Book Title Item #0433,Fiction,23.15,Five,In stock,53
+Book Title Item #0434,Science & Tech,34.41,Four,Out of stock,39
+Book Title Item #0435,Non-Fiction,40.86,Five,In stock,40
+Book Title Item #0436,Fiction,49.67,Four,In stock,46
+Book Title Item #0437,Non-Fiction,,Two,In stock,45
+Book Title Item #0438,Arts & Design,42.4,Three,In stock,46
+Book Title Item #0439,Self-Help,66.69,Three,In stock,41
+Book Title Item #0440,,12.06,Five,In stock,39
+Book Title Item #0441,Science & Tech,16.54,Four,In stock,53
+Book Title Item #0442,Self-Help,19.05,Four,In stock,43
+Book Title Item #0443,Non-Fiction,27.72,Three,In stock,44
+Book Title Item #0444,Arts & Design,54.61,Two,In stock,45
+Book Title Item #0445,Self-Help,61.8,Four,In stock,50
+Book Title Item #0446,Arts & Design,33.32,Four,In stock,45
+Book Title Item #0447,Non-Fiction,33.37,Three,In stock,50
+Book Title Item #0448,Arts & Design,72.7,Four,In stock,51
+Book Title Item #0449,Science & Tech,41.19,One,In stock,39
+Book Title Item #0450,Non-Fiction,30.13,Three,In stock,44
+Book Title Item #0451,Non-Fiction,58.07,Four,In stock,50
+Book Title Item #0452,Non-Fiction,54.79,Two,In stock,36
+Book Title Item #0453,Fiction,45.38,Five,In stock,47
+Book Title Item #0454,Fiction,27.02,Three,In stock,33
+Book Title Item #0455,Fiction,21.42,Two,Out of stock,49
+Book Title Item #0456,Science & Tech,22.49,Three,In stock,54
+Book Title Item #0457,Self-Help,23.19,Four,In stock,43
+Book Title Item #0458,Arts & Design,22.1,Three,In stock,51
+Book Title Item #0459,Business,27.75,Four,In stock,49
+Book Title Item #0460,Non-Fiction,36.72,One,Out of stock,41
+Book Title Item #0461,Arts & Design,39.02,One,Out of stock,52
+Book Title Item #0462,Non-Fiction,19.55,Three,In stock,45
+Book Title Item #0463,Science & Tech,42.08,Five,In stock,44
+Book Title Item #0464,Non-Fiction,38.73,Five,In stock,44
+Book Title Item #0465,,34.89,Two,In stock,44
+Book Title Item #0466,Business,26.55,Four,In stock,55
+Book Title Item #0467,History,19.79,Five,In stock,63
+Book Title Item #0468,Non-Fiction,49.44,Three,Out of stock,47
+Book Title Item #0469,Arts & Design,308.93,Five,In stock,60
+Book Title Item #0470,Fiction,,Two,In stock,50
+Book Title Item #0471,History,29.33,Five,Out of stock,40
+Book Title Item #0472,Business,27.5,Four,Out of stock,46
+Book Title Item #0473,History,61.36,Five,In stock,41
+Book Title Item #0474,,122.69,Four,In stock,47
+Book Title Item #0475,Self-Help,31.54,Three,In stock,45
+Book Title Item #0476,Self-Help,40.07,Five,In stock,43
+Book Title Item #0477,History,35.4,Three,Out of stock,43
+Book Title Item #0478,Science & Tech,23.34,Three,Out of stock,46
+Book Title Item #0479,Arts & Design,28.98,Four,In stock,45
+Book Title Item #0480,Arts & Design,94.75,Four,In stock,45
+Book Title Item #0481,History,24.98,Five,In stock,47
+Book Title Item #0482,Non-Fiction,38.46,Three,Out of stock,43
+Book Title Item #0483,Non-Fiction,25.91,Four,In stock,48
+Book Title Item #0484,Arts & Design,35.85,Four,In stock,38
+Book Title Item #0485,Arts & Design,25.01,One,In stock,41
+Book Title Item #0486,Self-Help,27.99,Three,In stock,53
+Book Title Item #0487,Science & Tech,16.19,Three,In stock,33
+Book Title Item #0488,Fiction,38.89,Three,In stock,38
+Book Title Item #0489,Non-Fiction,30.43,Five,Out of stock,51
+Book Title Item #0490,Arts & Design,48.09,Four,Out of stock,43
+Book Title Item #0491,Self-Help,35.81,Four,In stock,49
+Book Title Item #0492,Business,24.63,Five,In stock,49
+Book Title Item #0493,Self-Help,21.45,Three,In stock,34
+Book Title Item #0494,Non-Fiction,36.88,Five,In stock,46
+Book Title Item #0495,Non-Fiction,70.12,Three,In stock,44
+Book Title Item #0496,Self-Help,27.1,Five,Out of stock,44
+Book Title Item #0497,Fiction,12.85,Two,In stock,33
+Book Title Item #0498,History,41.09,Five,In stock,49
+Book Title Item #0499,Non-Fiction,66.38,Three,Out of stock,47
+Book Title Item #0500,Self-Help,48.7,Three,Out of stock,59
+Book Title Item #0501,Arts & Design,18.55,Four,In stock,43
+Book Title Item #0502,Self-Help,39.35,Three,In stock,41
+Book Title Item #0503,Science & Tech,56.27,Four,In stock,36
+Book Title Item #0504,History,29.32,Three,In stock,47
+Book Title Item #0505,Business,27.43,Four,In stock,40
+Book Title Item #0506,Fiction,27.91,Three,In stock,57
+Book Title Item #0507,Business,33.24,One,Out of stock,55
+Book Title Item #0508,History,19.18,Three,In stock,50
+Book Title Item #0509,History,40.89,Four,In stock,44
+Book Title Item #0510,History,41.95,Two,In stock,42
+Book Title Item #0511,Business,42.47,Three,In stock,35
+Book Title Item #0512,Arts & Design,36.12,Three,In stock,49
+Book Title Item #0513,History,18.89,One,In stock,49
+Book Title Item #0514,Self-Help,32.24,Four,In stock,49
+Book Title Item #0515,Business,86.55,Five,In stock,56
+Book Title Item #0516,History,41.58,Two,In stock,44
+Book Title Item #0517,Self-Help,23.66,Four,In stock,41
+Book Title Item #0518,Arts & Design,,Four,In stock,48
+Book Title Item #0519,Science & Tech,87.1,Three,In stock,41
+Book Title Item #0520,Arts & Design,44.37,Four,In stock,41
+Book Title Item #0521,History,33.86,Three,In stock,37
+Book Title Item #0522,Business,70.01,Four,Out of stock,36
+Book Title Item #0523,Non-Fiction,28.18,One,Out of stock,45
+Book Title Item #0524,History,60.65,Four,In stock,48
+Book Title Item #0525,Non-Fiction,27.14,Four,In stock,29
+Book Title Item #0526,Self-Help,29.6,One,In stock,40
+Book Title Item #0527,Science & Tech,54.41,Three,In stock,41
+Book Title Item #0528,Fiction,68.48,Five,In stock,45
+Book Title Item #0529,Arts & Design,35.01,Three,Out of stock,43
+Book Title Item #0530,Science & Tech,67.5,Four,Out of stock,42
+Book Title Item #0531,History,44.86,Five,In stock,46
+Book Title Item #0532,Non-Fiction,448.1,Four,In stock,33
+Book Title Item #0533,Arts & Design,29.74,Four,Out of stock,59
+Book Title Item #0534,Non-Fiction,48.4,Four,In stock,34
+Book Title Item #0535,Business,72.23,Five,In stock,50
+Book Title Item #0536,Non-Fiction,61.22,Four,In stock,52
+Book Title Item #0537,Business,61.68,Four,In stock,39
+Book Title Item #0538,Self-Help,17.5,Three,In stock,46
+Book Title Item #0539,Arts & Design,53.37,Five,In stock,46
+Book Title Item #0540,Arts & Design,51.93,Four,In stock,55
+Book Title Item #0541,Fiction,42.64,Two,In stock,35
+Book Title Item #0542,History,51.5,Five,In stock,45
+Book Title Item #0543,Business,13.86,Four,In stock,45
+Book Title Item #0544,Fiction,9.9,One,In stock,36
+Book Title Item #0545,Non-Fiction,42.21,Four,In stock,50
+Book Title Item #0546,Non-Fiction,,Three,In stock,42
+Book Title Item #0547,Fiction,32.84,Five,In stock,42
+Book Title Item #0548,Arts & Design,45.98,Three,In stock,42
+Book Title Item #0549,Non-Fiction,40.99,Five,Out of stock,35
+Book Title Item #0550,Self-Help,43.61,Four,In stock,42
+Book Title Item #0551,Self-Help,57.75,One,In stock,50
+Book Title Item #0552,Fiction,27.74,Five,In stock,54
+Book Title Item #0553,Business,44.11,Four,In stock,44
+Book Title Item #0554,Business,,Three,In stock,59
+Book Title Item #0555,Fiction,12.44,Four,Out of stock,39
+Book Title Item #0556,Business,31.53,Five,In stock,52
+Book Title Item #0557,Arts & Design,62.29,Three,In stock,51
+Book Title Item #0558,Arts & Design,22.87,Two,Out of stock,49
+Book Title Item #0559,Business,46.14,Two,In stock,39
+Book Title Item #0560,Self-Help,58.04,Three,In stock,44
+Book Title Item #0561,Business,53.64,Four,In stock,46
+Book Title Item #0562,Arts & Design,25.88,Four,In stock,50
+Book Title Item #0563,Science & Tech,,Three,In stock,54
+Book Title Item #0564,History,37.7,Two,In stock,53
+Book Title Item #0565,Non-Fiction,,Three,In stock,42
+Book Title Item #0566,Science & Tech,51.29,Five,In stock,38
+Book Title Item #0567,Business,51.57,Three,In stock,51
+Book Title Item #0568,,123.83,Five,In stock,49
+Book Title Item #0569,Fiction,75.44,Four,In stock,52
+Book Title Item #0570,Business,30.58,Two,In stock,38
+Book Title Item #0571,Self-Help,98.51,Five,In stock,45
+Book Title Item #0572,History,19.76,Four,Out of stock,47
+Book Title Item #0573,Business,20.94,Four,In stock,38
+Book Title Item #0574,Arts & Design,54.91,Five,In stock,54
+Book Title Item #0575,Fiction,354.44,One,In stock,40
+Book Title Item #0576,Self-Help,75.61,Two,In stock,43
+Book Title Item #0577,Self-Help,50.52,Four,In stock,41
+Book Title Item #0578,Self-Help,34.97,Three,In stock,41
+Book Title Item #0579,History,33.51,Two,In stock,42
+Book Title Item #0580,Business,32.87,One,In stock,40
+Book Title Item #0581,History,11.17,One,In stock,46
+Book Title Item #0582,Non-Fiction,22.47,Four,In stock,50
+Book Title Item #0583,Non-Fiction,25.58,Two,In stock,44
+Book Title Item #0584,Business,63.29,Four,In stock,41
+Book Title Item #0585,Arts & Design,26.95,Four,In stock,41
+Book Title Item #0586,History,44.97,Three,Out of stock,43
+Book Title Item #0587,Fiction,33.58,One,In stock,46
+Book Title Item #0588,Self-Help,22.58,Four,In stock,45
+Book Title Item #0589,Self-Help,42.55,One,In stock,48
+Book Title Item #0590,Business,36.63,Four,In stock,35
+Book Title Item #0591,Arts & Design,63.05,Five,In stock,33
+Book Title Item #0592,Non-Fiction,29.79,Three,In stock,40
+Book Title Item #0593,Non-Fiction,25.83,Four,In stock,45
+Book Title Item #0594,Self-Help,56.2,Four,In stock,46
+Book Title Item #0595,Business,33.56,Three,In stock,43
+Book Title Item #0596,History,58.65,Five,In stock,51
+Book Title Item #0597,Non-Fiction,27.49,Five,Out of stock,53
+Book Title Item #0598,History,39.91,Three,In stock,52
+Book Title Item #0599,Arts & Design,26.39,Four,In stock,38
+Book Title Item #0600,Non-Fiction,23.29,Five,Out of stock,41
+Book Title Item #0601,Non-Fiction,10.29,Five,In stock,41
+Book Title Item #0602,Science & Tech,77.02,Four,In stock,39
+Book Title Item #0603,Non-Fiction,28.3,Four,In stock,49
+Book Title Item #0604,Fiction,48.11,Three,In stock,35
+Book Title Item #0605,Business,33.8,Five,In stock,43
+Book Title Item #0606,,66.01,Two,In stock,49
+Book Title Item #0607,History,13.62,Four,In stock,41
+Book Title Item #0608,Arts & Design,41.21,Three,In stock,47
+Book Title Item #0609,Non-Fiction,54.29,Three,In stock,38
+Book Title Item #0610,Fiction,38.15,Three,In stock,40
+Book Title Item #0611,History,24.5,Five,In stock,54
+Book Title Item #0612,Science & Tech,13.92,One,In stock,42
+Book Title Item #0613,History,25.93,Four,In stock,45
+Book Title Item #0614,History,11.9,Two,In stock,56
+Book Title Item #0615,Non-Fiction,53.6,Two,In stock,42
+Book Title Item #0616,Science & Tech,47.13,Three,In stock,39
+Book Title Item #0617,History,56.59,Four,In stock,54
+Book Title Item #0618,Fiction,21.83,Three,In stock,35
+Book Title Item #0619,Fiction,19.98,Three,In stock,41
+Book Title Item #0620,Business,48.49,Two,Out of stock,47
+Book Title Item #0621,Science & Tech,47.55,Three,In stock,38
+Book Title Item #0622,Science & Tech,,Five,In stock,42
+Book Title Item #0623,Business,25.24,Five,In stock,29
+Book Title Item #0624,History,79.2,Three,In stock,38
+Book Title Item #0625,Science & Tech,54.83,Four,In stock,44
+Book Title Item #0626,Fiction,32.28,Five,In stock,44
+Book Title Item #0627,Fiction,18.6,One,In stock,39
+Book Title Item #0628,Non-Fiction,21.57,Five,Out of stock,50
+Book Title Item #0629,Science & Tech,29.28,Five,In stock,57
+Book Title Item #0630,History,16.52,Two,In stock,44
+Book Title Item #0631,Business,67.14,Two,In stock,47
+Book Title Item #0632,Business,64.05,Five,Out of stock,37
+Book Title Item #0633,History,18.95,Four,In stock,46
+Book Title Item #0634,Arts & Design,90.2,One,In stock,49
+Book Title Item #0635,Self-Help,28.76,Three,Out of stock,38
+Book Title Item #0636,Non-Fiction,37.1,Three,In stock,49
+Book Title Item #0637,Business,28.54,Four,In stock,43
+Book Title Item #0638,Science & Tech,19.93,Four,In stock,47
+Book Title Item #0639,,30.41,Five,In stock,48
+Book Title Item #0640,Science & Tech,13.06,Three,In stock,44
+Book Title Item #0641,Arts & Design,30.53,Four,In stock,60
+Book Title Item #0642,Fiction,35.19,Four,In stock,58
+Book Title Item #0643,Non-Fiction,41.69,Three,In stock,53
+Book Title Item #0644,Business,15.31,Two,In stock,44
+Book Title Item #0645,Non-Fiction,15.81,Five,In stock,51
+Book Title Item #0646,,40.72,Five,In stock,47
+Book Title Item #0647,Non-Fiction,18.99,Four,In stock,42
+Book Title Item #0648,Self-Help,32.88,Four,In stock,44
+Book Title Item #0649,Non-Fiction,67.58,Three,In stock,35
+Book Title Item #0650,Science & Tech,18.09,Four,In stock,61
+Book Title Item #0651,Fiction,22.86,Four,In stock,59
+Book Title Item #0652,Arts & Design,439.1,Four,In stock,48
+Book Title Item #0653,History,12.9,Five,In stock,52
+Book Title Item #0654,Non-Fiction,33.13,Four,In stock,45
+Book Title Item #0655,Business,43.06,Three,In stock,47
+Book Title Item #0656,Non-Fiction,400.84,Four,In stock,33
+Book Title Item #0657,Business,28.99,Two,In stock,46
+Book Title Item #0658,Science & Tech,17.93,Three,In stock,42
+Book Title Item #0659,Business,15.45,Three,In stock,55
+Book Title Item #0660,History,41.95,Three,Out of stock,52
+Book Title Item #0661,Fiction,,Four,In stock,35
+Book Title Item #0662,Business,85.68,Four,In stock,30
+Book Title Item #0663,Business,30.41,Four,In stock,42
+Book Title Item #0664,Fiction,42.8,Four,In stock,50
+Book Title Item #0665,History,34.61,Three,Out of stock,39
+Book Title Item #0666,Non-Fiction,19.07,Five,In stock,46
+Book Title Item #0667,Business,42.26,Three,In stock,52
+Book Title Item #0668,Fiction,62.17,Three,In stock,43
+Book Title Item #0669,Science & Tech,51.24,Four,In stock,51
+Book Title Item #0670,Fiction,24.78,Three,In stock,36
+Book Title Item #0671,Science & Tech,125.17,One,In stock,43
+Book Title Item #0672,History,31.99,Four,In stock,42
+Book Title Item #0673,Non-Fiction,66.55,Four,In stock,42
+Book Title Item #0674,Fiction,30.83,Three,In stock,43
+Book Title Item #0675,Arts & Design,65.7,Five,In stock,51
+Book Title Item #0676,Arts & Design,33.15,Four,In stock,45
+Book Title Item #0677,Self-Help,34.41,Five,In stock,50
+Book Title Item #0678,Business,60.96,Two,In stock,40
+Book Title Item #0679,History,92.7,Four,In stock,53
+Book Title Item #0680,,32.49,Five,In stock,58
+Book Title Item #0681,Arts & Design,29.61,Four,In stock,38
+Book Title Item #0682,Business,24.47,Four,Out of stock,33
+Book Title Item #0683,Arts & Design,22.47,Three,In stock,50
+Book Title Item #0684,Fiction,25.37,Two,In stock,41
+Book Title Item #0685,Science & Tech,27.6,Four,In stock,54
+Book Title Item #0686,Fiction,56.88,Three,In stock,43
+Book Title Item #0687,Self-Help,48.18,Five,In stock,49
+Book Title Item #0688,Fiction,53.16,Three,In stock,48
+Book Title Item #0689,Fiction,52.69,Five,In stock,45
+Book Title Item #0690,Self-Help,66.2,Five,Out of stock,36
+Book Title Item #0691,History,24.19,Three,In stock,48
+Book Title Item #0692,Fiction,41.32,Three,In stock,46
+Book Title Item #0693,Self-Help,14.41,Five,In stock,38
+Book Title Item #0694,Business,14.48,Five,In stock,37
+Book Title Item #0695,Science & Tech,39.13,Three,In stock,39
+Book Title Item #0696,,34.42,Three,Out of stock,46
+Book Title Item #0697,Fiction,37.59,Four,Out of stock,38
+Book Title Item #0698,History,50.46,Four,Out of stock,52
+Book Title Item #0699,History,74.81,Three,In stock,40
+Book Title Item #0700,Business,37.05,Four,In stock,28
+Book Title Item #0701,Fiction,,One,In stock,50
+Book Title Item #0702,Science & Tech,25.0,One,In stock,39
+Book Title Item #0703,History,57.32,Three,In stock,51
+Book Title Item #0704,Fiction,26.17,Three,In stock,49
+Book Title Item #0705,Arts & Design,31.84,Three,In stock,37
+Book Title Item #0706,History,51.08,Four,In stock,32
+Book Title Item #0707,Self-Help,365.58,Three,In stock,41
+Book Title Item #0708,Arts & Design,37.45,Two,In stock,52
+Book Title Item #0709,History,22.99,Three,In stock,44
+Book Title Item #0710,Science & Tech,44.01,Five,In stock,41
+Book Title Item #0711,Non-Fiction,101.85,Three,In stock,44
+Book Title Item #0712,Arts & Design,17.78,Three,In stock,53
+Book Title Item #0713,Business,19.85,Four,In stock,46
+Book Title Item #0714,Business,54.9,Five,In stock,50
+Book Title Item #0715,Science & Tech,41.85,Three,In stock,39
+Book Title Item #0716,History,72.03,Four,In stock,51
+Book Title Item #0717,Fiction,24.59,Four,In stock,38
+Book Title Item #0718,History,57.79,Four,In stock,44
+Book Title Item #0719,Science & Tech,44.02,Two,In stock,46
+Book Title Item #0720,Business,21.78,Four,In stock,53
+Book Title Item #0721,History,26.22,One,In stock,39
+Book Title Item #0722,Business,37.29,Four,In stock,45
+Book Title Item #0723,Arts & Design,22.94,Four,In stock,40
+Book Title Item #0724,Fiction,64.5,Three,In stock,49
+Book Title Item #0725,Arts & Design,53.5,Five,In stock,44
+Book Title Item #0726,Business,28.35,One,In stock,50
+Book Title Item #0727,Business,33.96,Five,In stock,39
+Book Title Item #0728,Non-Fiction,59.31,Four,In stock,36
+Book Title Item #0729,Non-Fiction,35.72,Three,Out of stock,50
+Book Title Item #0730,Arts & Design,93.65,Two,In stock,51
+Book Title Item #0731,Self-Help,48.35,Five,In stock,47
+Book Title Item #0732,Arts & Design,23.51,One,In stock,48
+Book Title Item #0733,Non-Fiction,20.44,Two,In stock,49
+Book Title Item #0734,Business,62.54,Three,In stock,49
+Book Title Item #0735,Science & Tech,29.15,Four,In stock,41
+Book Title Item #0736,Arts & Design,39.81,Four,In stock,58
+Book Title Item #0737,Business,7.39,Two,Out of stock,35
+Book Title Item #0738,Science & Tech,37.32,Three,In stock,51
+Book Title Item #0739,Science & Tech,16.6,Three,In stock,40
+Book Title Item #0740,Non-Fiction,16.48,Three,Out of stock,46
+Book Title Item #0741,Arts & Design,67.81,Three,In stock,39
+Book Title Item #0742,History,31.12,Four,In stock,38
+Book Title Item #0743,Fiction,30.26,Three,In stock,42
+Book Title Item #0744,Non-Fiction,98.45,Three,In stock,43
+Book Title Item #0745,Non-Fiction,60.04,Three,In stock,44
+Book Title Item #0746,History,79.78,Five,Out of stock,47
+Book Title Item #0747,Fiction,69.03,Five,In stock,43
+Book Title Item #0748,Business,55.63,Five,In stock,58
+Book Title Item #0749,Self-Help,77.92,Three,Out of stock,51
+Book Title Item #0750,Arts & Design,24.27,One,In stock,39
+Book Title Item #0751,Self-Help,22.68,Three,In stock,45
+Book Title Item #0752,Business,16.52,Three,In stock,40
+Book Title Item #0753,Non-Fiction,13.54,Four,Out of stock,46
+Book Title Item #0754,Fiction,39.38,Four,In stock,48
+Book Title Item #0755,Non-Fiction,15.44,Five,In stock,57
+Book Title Item #0756,Science & Tech,19.52,Five,In stock,38
+Book Title Item #0757,Non-Fiction,32.9,Three,In stock,48
+Book Title Item #0758,Non-Fiction,8.13,Four,Out of stock,51
+Book Title Item #0759,Business,35.5,Three,In stock,46
+Book Title Item #0760,Business,37.29,One,In stock,52
+Book Title Item #0761,Business,95.06,Four,In stock,49
+Book Title Item #0762,Self-Help,41.42,One,In stock,44
+Book Title Item #0763,Science & Tech,39.42,Three,In stock,42
+Book Title Item #0764,Business,77.9,Three,In stock,50
+Book Title Item #0765,Fiction,32.55,Four,In stock,38
+Book Title Item #0766,Self-Help,40.91,Four,In stock,51
+Book Title Item #0767,History,60.32,Three,Out of stock,46
+Book Title Item #0768,Fiction,24.54,Five,In stock,48
+Book Title Item #0769,Arts & Design,60.54,Three,In stock,55
+Book Title Item #0770,Arts & Design,17.14,Three,In stock,40
+Book Title Item #0771,Fiction,52.0,Four,In stock,49
+Book Title Item #0772,Business,52.17,Four,In stock,43
+Book Title Item #0773,History,29.84,Five,In stock,42
+Book Title Item #0774,History,33.6,Three,In stock,45
+Book Title Item #0775,Self-Help,82.19,Four,In stock,67
+Book Title Item #0776,,34.93,Four,In stock,46
+Book Title Item #0777,Arts & Design,48.71,Five,In stock,45
+Book Title Item #0778,Science & Tech,38.01,Two,Out of stock,46
+Book Title Item #0779,Business,25.69,Four,In stock,37
+Book Title Item #0780,History,26.65,Four,In stock,45
+Book Title Item #0781,Self-Help,45.33,Three,In stock,52
+Book Title Item #0782,Arts & Design,73.43,Four,Out of stock,38
+Book Title Item #0783,Science & Tech,17.7,Three,In stock,45
+Book Title Item #0784,Non-Fiction,78.95,Four,In stock,39
+Book Title Item #0785,Non-Fiction,51.2,Five,In stock,34
+Book Title Item #0786,Science & Tech,32.57,Four,In stock,42
+Book Title Item #0787,Arts & Design,43.9,Four,In stock,46
+Book Title Item #0788,Self-Help,50.74,Four,In stock,46
+Book Title Item #0789,Science & Tech,20.04,One,In stock,58
+Book Title Item #0790,Business,34.03,Three,Out of stock,48
+Book Title Item #0791,Business,37.06,Four,Out of stock,52
+Book Title Item #0792,Non-Fiction,14.53,Three,In stock,41
+Book Title Item #0793,History,56.48,Two,In stock,34
+Book Title Item #0794,Self-Help,26.35,Four,In stock,49
+Book Title Item #0795,Non-Fiction,27.17,Three,In stock,35
+Book Title Item #0796,History,35.39,Three,In stock,49
+Book Title Item #0797,History,46.59,Four,In stock,28
+Book Title Item #0798,Business,44.83,Two,In stock,42
+Book Title Item #0799,Arts & Design,37.94,Five,In stock,46
+Book Title Item #0800,Fiction,43.94,Five,In stock,43
+Book Title Item #0801,Arts & Design,24.9,Four,In stock,56
+Book Title Item #0802,Fiction,40.17,Two,In stock,47
+Book Title Item #0803,Science & Tech,48.99,Four,In stock,58
+Book Title Item #0804,Business,26.9,Five,In stock,39
+Book Title Item #0805,History,37.52,Four,In stock,44
+Book Title Item #0806,Self-Help,49.56,Two,In stock,54
+Book Title Item #0807,Fiction,35.36,Four,In stock,47
+Book Title Item #0808,Arts & Design,18.29,Five,In stock,34
+Book Title Item #0809,History,72.77,Four,Out of stock,35
+Book Title Item #0810,Fiction,65.99,Four,In stock,35
+Book Title Item #0811,Fiction,36.87,Four,In stock,31
+Book Title Item #0812,Fiction,,Four,In stock,48
+Book Title Item #0813,Self-Help,50.7,One,In stock,40
+Book Title Item #0814,Business,33.09,Four,Out of stock,40
+Book Title Item #0815,Self-Help,25.2,Two,In stock,44
+Book Title Item #0816,Non-Fiction,20.1,Three,In stock,48
+Book Title Item #0817,History,34.07,Three,In stock,40
+Book Title Item #0818,Business,,Four,In stock,42
+Book Title Item #0819,Business,23.79,Two,In stock,50
+Book Title Item #0820,Business,44.1,Four,In stock,39
+Book Title Item #0821,Arts & Design,17.22,Four,In stock,46
+Book Title Item #0822,Business,14.73,Two,In stock,46
+Book Title Item #0823,Self-Help,39.0,Two,Out of stock,46
+Book Title Item #0824,Business,49.94,Two,In stock,35
+Book Title Item #0825,Science & Tech,45.63,Five,In stock,36
+Book Title Item #0826,History,14.94,Four,In stock,31
+Book Title Item #0827,Business,24.99,Four,In stock,38
+Book Title Item #0828,History,26.65,Two,In stock,48
+Book Title Item #0829,Science & Tech,15.43,Four,In stock,47
+Book Title Item #0830,Science & Tech,37.63,Five,In stock,46
+Book Title Item #0831,History,41.37,Five,In stock,41
+Book Title Item #0832,Fiction,33.42,Four,In stock,52
+Book Title Item #0833,Non-Fiction,15.3,One,In stock,41
+Book Title Item #0834,Arts & Design,93.72,Two,In stock,52
+Book Title Item #0835,Fiction,23.66,One,In stock,59
+Book Title Item #0836,Fiction,59.67,Three,Out of stock,39
+Book Title Item #0837,Self-Help,73.37,Two,Out of stock,42
+Book Title Item #0838,Arts & Design,29.68,Three,In stock,47
+Book Title Item #0839,Arts & Design,45.69,Three,In stock,54
+Book Title Item #0840,Fiction,,Five,In stock,48
+Book Title Item #0841,Business,30.34,Four,In stock,42
+Book Title Item #0842,Self-Help,46.5,Five,Out of stock,39
+Book Title Item #0843,Self-Help,,Four,In stock,40
+Book Title Item #0844,Science & Tech,53.01,Two,In stock,55
+Book Title Item #0845,Arts & Design,28.5,Four,In stock,48
+Book Title Item #0846,Fiction,59.67,Three,In stock,55
+Book Title Item #0847,Science & Tech,21.72,Four,In stock,42
+Book Title Item #0848,History,46.01,Three,In stock,41
+Book Title Item #0849,Non-Fiction,27.03,Five,In stock,35
+Book Title Item #0850,Self-Help,14.18,Three,In stock,37
+Book Title Item #0851,History,52.51,Three,In stock,46
+Book Title Item #0852,History,24.69,Five,In stock,47
+Book Title Item #0853,Business,20.84,One,In stock,44
+Book Title Item #0854,Non-Fiction,67.26,Four,In stock,43
+Book Title Item #0855,History,55.91,Four,In stock,44
+Book Title Item #0856,History,20.36,Five,Out of stock,51
+Book Title Item #0857,Non-Fiction,18.78,Five,Out of stock,41
+Book Title Item #0858,Non-Fiction,28.79,Five,Out of stock,39
+Book Title Item #0859,History,19.5,One,In stock,48
+Book Title Item #0860,Non-Fiction,74.96,Five,In stock,50
+Book Title Item #0861,History,13.73,Four,In stock,52
+Book Title Item #0862,History,86.89,Four,Out of stock,40
+Book Title Item #0863,Business,45.1,Two,Out of stock,44
+Book Title Item #0864,Fiction,49.47,Four,In stock,46
+Book Title Item #0865,History,39.1,Five,In stock,45
+Book Title Item #0866,Science & Tech,14.86,Five,Out of stock,47
+Book Title Item #0867,Self-Help,55.18,Three,In stock,43
+Book Title Item #0868,Arts & Design,37.65,One,In stock,39
+Book Title Item #0869,Fiction,21.67,Three,In stock,37
+Book Title Item #0870,Fiction,63.22,Five,In stock,43
+Book Title Item #0871,Fiction,60.73,Four,In stock,49
+Book Title Item #0872,Business,63.38,Four,In stock,42
+Book Title Item #0873,History,58.73,One,In stock,39
+Book Title Item #0874,Business,27.59,Three,In stock,45
+Book Title Item #0875,History,48.78,Four,In stock,37
+Book Title Item #0876,Business,62.53,Five,In stock,45
+Book Title Item #0877,Business,59.1,Four,In stock,38
+Book Title Item #0878,Self-Help,9.28,Three,In stock,47
+Book Title Item #0879,Science & Tech,35.55,Four,Out of stock,50
+Book Title Item #0880,Business,24.96,One,In stock,40
+Book Title Item #0881,Self-Help,74.46,Five,In stock,49
+Book Title Item #0882,Non-Fiction,35.82,Three,In stock,52
+Book Title Item #0883,Science & Tech,46.76,Four,In stock,53
+Book Title Item #0884,Business,,Three,In stock,39
+Book Title Item #0885,Arts & Design,70.44,Four,In stock,44
+Book Title Item #0886,Fiction,87.52,Four,In stock,48
+Book Title Item #0887,Non-Fiction,37.78,Four,In stock,46
+Book Title Item #0888,Non-Fiction,42.01,Three,In stock,44
+Book Title Item #0889,Self-Help,72.58,Three,Out of stock,43
+Book Title Item #0890,Non-Fiction,19.71,Two,In stock,51
+Book Title Item #0891,Science & Tech,20.97,Four,Out of stock,45
+Book Title Item #0892,Business,25.88,One,In stock,43
+Book Title Item #0893,Business,54.63,Four,In stock,39
+Book Title Item #0894,Arts & Design,38.38,Five,In stock,43
+Book Title Item #0895,Fiction,26.02,Five,In stock,52
+Book Title Item #0896,Self-Help,68.26,Three,In stock,47
+Book Title Item #0897,Fiction,15.54,Four,In stock,43
+Book Title Item #0898,Non-Fiction,25.35,One,In stock,36
+Book Title Item #0899,Arts & Design,345.43,Four,In stock,42
+Book Title Item #0900,Fiction,87.3,Five,In stock,44
+Book Title Item #0901,Science & Tech,25.76,Three,In stock,36
+Book Title Item #0902,Business,48.81,Three,In stock,39
+Book Title Item #0903,Non-Fiction,34.08,Five,In stock,32
+Book Title Item #0904,Arts & Design,18.93,Five,In stock,44
+Book Title Item #0905,,,Three,In stock,50
+Book Title Item #0906,Self-Help,31.56,Four,In stock,44
+Book Title Item #0907,Science & Tech,27.72,Two,In stock,42
+Book Title Item #0908,Science & Tech,,Two,In stock,45
+Book Title Item #0909,Fiction,38.53,Five,Out of stock,54
+Book Title Item #0910,Business,76.76,Five,In stock,36
+Book Title Item #0911,Fiction,26.41,Four,In stock,41
+Book Title Item #0912,Non-Fiction,19.82,One,In stock,55
+Book Title Item #0913,Fiction,14.23,Five,In stock,57
+Book Title Item #0914,Science & Tech,13.51,Three,In stock,50
+Book Title Item #0915,Arts & Design,34.55,Three,In stock,39
+Book Title Item #0916,Fiction,38.74,Four,In stock,38
+Book Title Item #0917,Business,45.39,Two,In stock,41
+Book Title Item #0918,Arts & Design,35.38,Four,In stock,39
+Book Title Item #0919,Self-Help,40.77,Four,In stock,37
+Book Title Item #0920,History,76.26,Two,In stock,42
+Book Title Item #0921,Fiction,68.2,Two,In stock,46
+Book Title Item #0922,Business,66.43,Two,In stock,51
+Book Title Item #0923,Arts & Design,61.25,One,In stock,41
+Book Title Item #0924,Business,51.63,Four,In stock,34
+Book Title Item #0925,Self-Help,,Five,In stock,40
+Book Title Item #0926,Science & Tech,32.96,One,Out of stock,46
+Book Title Item #0927,Business,42.73,One,In stock,51
+Book Title Item #0928,Arts & Design,307.12,Four,In stock,40
+Book Title Item #0929,Business,83.04,Five,In stock,42
+Book Title Item #0930,Business,31.0,Three,In stock,44
+Book Title Item #0931,Business,14.55,Three,In stock,47
+Book Title Item #0932,Non-Fiction,30.02,Four,In stock,42
+Book Title Item #0933,Non-Fiction,,Three,Out of stock,40
+Book Title Item #0934,Science & Tech,22.86,One,In stock,39
+Book Title Item #0935,Fiction,34.31,Four,In stock,41
+Book Title Item #0936,Business,14.71,Four,In stock,64
+Book Title Item #0937,Self-Help,29.14,Four,In stock,40
+Book Title Item #0938,Fiction,37.3,Four,In stock,43
+Book Title Item #0939,Self-Help,35.32,Four,In stock,45
+Book Title Item #0940,Fiction,55.57,Three,In stock,34
+Book Title Item #0941,Science & Tech,21.46,Three,Out of stock,49
+Book Title Item #0942,Business,44.56,Two,In stock,43
+Book Title Item #0943,Business,49.46,Two,Out of stock,44
+Book Title Item #0944,History,25.16,Four,In stock,44
+Book Title Item #0945,Self-Help,22.78,Five,In stock,45
+Book Title Item #0946,Fiction,83.38,Five,In stock,52
+Book Title Item #0947,Fiction,31.45,Four,In stock,44
+Book Title Item #0948,Non-Fiction,45.67,Two,Out of stock,42
+Book Title Item #0949,History,46.7,Two,In stock,52
+Book Title Item #0950,Arts & Design,16.64,Five,In stock,35
+Book Title Item #0951,Arts & Design,41.22,Four,In stock,35
+Book Title Item #0952,Non-Fiction,40.11,Four,In stock,37
+Book Title Item #0953,Non-Fiction,83.63,Four,Out of stock,49
+Book Title Item #0954,Non-Fiction,40.1,Four,In stock,42
+Book Title Item #0955,Self-Help,54.48,Five,In stock,52
+Book Title Item #0956,,55.64,One,In stock,31
+Book Title Item #0957,Science & Tech,31.99,Four,Out of stock,46
+Book Title Item #0958,Science & Tech,99.97,Five,In stock,39
+Book Title Item #0959,Non-Fiction,24.42,Three,In stock,38
+Book Title Item #0960,History,14.63,Four,In stock,39
+Book Title Item #0961,Fiction,28.49,Three,In stock,39
+Book Title Item #0962,Self-Help,,Five,In stock,54
+Book Title Item #0963,History,25.28,One,In stock,47
+Book Title Item #0964,Business,37.07,Four,In stock,49
+Book Title Item #0965,Self-Help,42.19,Two,In stock,51
+Book Title Item #0966,,30.17,Four,In stock,43
+Book Title Item #0967,Science & Tech,25.15,Two,In stock,53
+Book Title Item #0968,Fiction,28.28,Three,In stock,46
+Book Title Item #0969,Fiction,48.85,Four,In stock,44
+Book Title Item #0970,Arts & Design,20.64,Five,Out of stock,57
+Book Title Item #0971,Arts & Design,25.22,Three,In stock,45
+Book Title Item #0972,,43.9,Two,In stock,49
+Book Title Item #0973,Arts & Design,38.98,Four,In stock,52
+Book Title Item #0974,Business,14.24,Four,In stock,33
+Book Title Item #0975,Business,62.26,Five,In stock,42
+Book Title Item #0976,Self-Help,28.69,Two,In stock,48
+Book Title Item #0977,Non-Fiction,19.38,Four,In stock,54
+Book Title Item #0978,Science & Tech,17.02,Three,Out of stock,43
+Book Title Item #0979,Science & Tech,62.72,Two,In stock,42
+Book Title Item #0980,Arts & Design,10.7,Four,In stock,47
+Book Title Item #0981,Self-Help,45.89,Four,In stock,55
+Book Title Item #0982,History,56.62,Four,In stock,45
+Book Title Item #0983,Non-Fiction,29.95,Three,In stock,45
+Book Title Item #0984,Self-Help,79.39,Three,In stock,51
+Book Title Item #0985,Non-Fiction,21.27,Three,In stock,49
+Book Title Item #0986,Non-Fiction,48.66,Five,In stock,38
+Book Title Item #0987,Non-Fiction,39.24,Three,Out of stock,46
+Book Title Item #0988,Self-Help,84.8,Three,In stock,46
+Book Title Item #0989,Arts & Design,31.79,Three,In stock,50
+Book Title Item #0990,Science & Tech,46.06,Four,In stock,48
+Book Title Item #0991,Science & Tech,39.11,Three,In stock,45
+Book Title Item #0992,Arts & Design,15.42,Five,In stock,40
+Book Title Item #0993,Non-Fiction,34.21,Three,In stock,37
+Book Title Item #0994,History,322.01,Five,Out of stock,47
+Book Title Item #0995,Fiction,39.25,Two,Out of stock,37
+Book Title Item #0996,Self-Help,46.53,Four,In stock,51
+Book Title Item #0997,Fiction,71.14,Five,In stock,41
+Book Title Item #0998,Arts & Design,9.6,Two,In stock,52
+Book Title Item #0999,History,37.0,Five,In stock,34
+Book Title Item #1000,Self-Help,17.71,Four,In stock,46
+Book Title Item #1001,Arts & Design,49.0,Five,In stock,44
+Book Title Item #1002,Non-Fiction,103.15,Four,In stock,41
+Book Title Item #1003,Science & Tech,30.85,Three,In stock,53
+Book Title Item #1004,Fiction,23.88,Two,In stock,53
+Book Title Item #1005,Business,28.59,Three,In stock,53
+Book Title Item #1006,Business,17.84,Two,In stock,34
+Book Title Item #1007,History,7.94,Two,Out of stock,44
+Book Title Item #1008,Non-Fiction,42.35,Two,In stock,42
+Book Title Item #1009,Fiction,36.1,Three,In stock,45
+Book Title Item #1010,Non-Fiction,24.22,Four,In stock,42
+Book Title Item #1011,Fiction,19.95,Two,In stock,50
+Book Title Item #1012,History,56.39,Two,In stock,49
+Book Title Item #1013,History,68.1,Four,In stock,49
+Book Title Item #1014,Business,39.65,Two,In stock,60
+Book Title Item #1015,Non-Fiction,11.05,Two,In stock,55
+Book Title Item #1016,Self-Help,33.47,Two,In stock,44
+Book Title Item #1017,Business,43.99,Five,In stock,42
+Book Title Item #1018,Non-Fiction,31.51,Five,In stock,45
+Book Title Item #1019,Business,33.51,Three,In stock,56
+Book Title Item #1020,Self-Help,25.17,Four,Out of stock,42
+Book Title Item #1021,Science & Tech,31.89,Four,In stock,42
+Book Title Item #1022,Science & Tech,59.19,Four,In stock,45
+Book Title Item #1023,Science & Tech,40.89,Four,In stock,53
+Book Title Item #1024,Science & Tech,27.23,Four,In stock,36
+Book Title Item #1025,,31.55,Three,Out of stock,44
+Book Title Item #1026,Fiction,71.28,One,In stock,30
+Book Title Item #1027,Arts & Design,20.17,Four,In stock,42
+Book Title Item #1028,Arts & Design,25.3,Five,In stock,49
+Book Title Item #1029,Arts & Design,33.47,Four,In stock,40
+Book Title Item #1030,Science & Tech,26.35,Five,In stock,53
+Book Title Item #1031,Self-Help,69.49,Five,In stock,58
+Book Title Item #1032,History,59.95,Two,In stock,41
+Book Title Item #1033,History,33.07,Four,In stock,36
+Book Title Item #1034,Fiction,98.71,Four,In stock,37
+Book Title Item #1035,Science & Tech,42.55,Five,Out of stock,47
+Book Title Item #1036,Science & Tech,76.74,Five,In stock,26
+Book Title Item #1037,Science & Tech,72.9,Four,In stock,41
+Book Title Item #1038,Business,45.82,Three,In stock,44
+Book Title Item #1039,Non-Fiction,19.4,Four,In stock,45
+Book Title Item #1040,Business,38.13,Two,In stock,40
+Book Title Item #1041,Non-Fiction,24.84,Four,In stock,46
+Book Title Item #1042,Science & Tech,48.51,Five,In stock,44
+Book Title Item #1043,Science & Tech,44.49,Three,In stock,45
+Book Title Item #1044,Business,41.45,Four,In stock,46
+Book Title Item #1045,Business,54.95,Three,Out of stock,49
+Book Title Item #1046,,43.47,Three,In stock,44
+Book Title Item #1047,History,35.21,Three,In stock,51
+Book Title Item #1048,Non-Fiction,18.57,Four,In stock,33
+Book Title Item #1049,Business,26.16,Five,In stock,31
+Book Title Item #1050,Self-Help,21.02,Five,In stock,44
+Book Title Item #1051,Business,56.72,Two,In stock,34
+Book Title Item #1052,Self-Help,34.02,Five,In stock,45
+Book Title Item #1053,Fiction,41.55,Four,In stock,47
+Book Title Item #1054,Business,28.49,Three,In stock,43
+Book Title Item #1055,,63.99,One,In stock,54
+Book Title Item #1056,History,50.17,Three,In stock,37
+Book Title Item #1057,Non-Fiction,38.96,Five,In stock,43
+Book Title Item #1058,Self-Help,35.97,Four,In stock,47
+Book Title Item #1059,Non-Fiction,23.5,Four,In stock,45
+Book Title Item #1060,Fiction,26.47,Three,In stock,53
+Book Title Item #1061,Self-Help,15.43,Four,In stock,66
+Book Title Item #1062,Non-Fiction,50.69,One,In stock,62
+Book Title Item #1063,Business,53.08,Three,In stock,39
+Book Title Item #1064,Science & Tech,54.3,Four,In stock,49
+Book Title Item #1065,Fiction,21.76,Two,In stock,44
+Book Title Item #1066,Non-Fiction,74.14,Five,In stock,47
+Book Title Item #1067,Fiction,30.9,Three,In stock,53
+Book Title Item #1068,Arts & Design,47.62,Four,In stock,42
+Book Title Item #1069,Fiction,18.37,Three,In stock,55
+Book Title Item #1070,Self-Help,65.67,Four,In stock,52
+Book Title Item #1071,Arts & Design,52.02,Two,In stock,46
+Book Title Item #1072,Self-Help,31.6,One,In stock,41
+Book Title Item #1073,Science & Tech,28.65,Five,Out of stock,55
+Book Title Item #1074,Arts & Design,51.36,Three,In stock,36
+Book Title Item #1075,Business,65.57,Five,In stock,47
+Book Title Item #1076,Fiction,23.58,Five,In stock,40
+Book Title Item #1077,Non-Fiction,35.12,Three,In stock,49
+Book Title Item #1078,History,28.1,Three,In stock,47
+Book Title Item #1079,Fiction,67.19,Four,In stock,44
+Book Title Item #1080,Fiction,26.65,Five,In stock,39
+Book Title Item #1081,Science & Tech,,Five,In stock,56
+Book Title Item #1082,Business,52.55,Four,In stock,39
+Book Title Item #1083,History,70.92,Four,In stock,54
+Book Title Item #1084,Arts & Design,50.98,Two,In stock,54
+Book Title Item #1085,Arts & Design,62.91,Five,In stock,50
+Book Title Item #1086,Arts & Design,95.14,Five,In stock,42
+Book Title Item #1087,Self-Help,85.16,Two,In stock,45
+Book Title Item #1088,Self-Help,85.67,Three,In stock,54
+Book Title Item #1089,Non-Fiction,28.28,Two,In stock,38
+Book Title Item #1090,History,52.85,Three,In stock,41
+Book Title Item #1091,Arts & Design,40.21,Five,In stock,48
+Book Title Item #1092,Self-Help,39.84,Three,In stock,45
+Book Title Item #1093,Non-Fiction,64.29,Two,Out of stock,45
+Book Title Item #1094,Business,49.01,Three,In stock,50
+Book Title Item #1095,Non-Fiction,35.71,Five,In stock,42
+Book Title Item #1096,Self-Help,25.82,Four,In stock,62
+Book Title Item #1097,Science & Tech,49.22,Three,In stock,50
+Book Title Item #1098,Science & Tech,33.95,Two,In stock,40
+Book Title Item #1099,Arts & Design,64.13,Five,In stock,55
+Book Title Item #1100,Science & Tech,63.09,Five,Out of stock,59
+Book Title Item #1101,Arts & Design,45.58,Three,In stock,46
+Book Title Item #1102,Arts & Design,20.85,One,In stock,58
+Book Title Item #1103,Self-Help,29.81,One,In stock,46
+Book Title Item #1104,Science & Tech,87.54,Two,In stock,46
+Book Title Item #1105,Arts & Design,48.37,Four,In stock,44
+Book Title Item #1106,History,70.8,Five,In stock,36
+Book Title Item #1107,Business,21.37,Four,In stock,40
+Book Title Item #1108,Non-Fiction,142.31,Five,In stock,35
+Book Title Item #1109,Non-Fiction,,Three,In stock,39
+Book Title Item #1110,Self-Help,48.75,Four,In stock,38
+Book Title Item #1111,Science & Tech,13.58,Four,In stock,47
+Book Title Item #1112,Science & Tech,64.13,Two,In stock,41
+Book Title Item #1113,Arts & Design,23.63,Three,In stock,61
+Book Title Item #1114,Fiction,34.16,Four,In stock,50
+Book Title Item #1115,Arts & Design,43.95,One,In stock,41
+Book Title Item #1116,Business,55.34,Three,In stock,33
+Book Title Item #1117,History,33.84,Four,In stock,40
+Book Title Item #1118,Non-Fiction,41.32,Five,In stock,44
+Book Title Item #1119,Arts & Design,42.99,Four,In stock,42
+Book Title Item #1120,Fiction,38.48,Five,In stock,44
+Book Title Item #1121,Fiction,33.55,Three,In stock,47
+Book Title Item #1122,Arts & Design,28.4,Four,In stock,46
+Book Title Item #1123,Self-Help,44.19,Four,In stock,36
+Book Title Item #1124,Non-Fiction,43.42,Five,In stock,41
+Book Title Item #1125,Self-Help,25.63,Three,Out of stock,38
+Book Title Item #1126,History,33.63,Four,In stock,39
+Book Title Item #1127,Fiction,13.65,Four,In stock,39
+Book Title Item #1128,Fiction,32.68,Three,In stock,55
+Book Title Item #1129,Business,13.88,Two,In stock,43
+Book Title Item #1130,History,28.75,Two,In stock,44
+Book Title Item #1131,Fiction,20.94,One,In stock,48
+Book Title Item #1132,History,24.27,Five,In stock,53
+Book Title Item #1133,Non-Fiction,72.02,Three,In stock,47
+Book Title Item #1134,Science & Tech,19.46,Three,In stock,39
+Book Title Item #1135,Fiction,,Four,In stock,45
+Book Title Item #1136,Business,43.95,Three,In stock,38
+Book Title Item #1137,Non-Fiction,12.2,Four,In stock,51
+Book Title Item #1138,Arts & Design,34.14,Two,In stock,45
+Book Title Item #1139,History,41.85,Five,In stock,47
+Book Title Item #1140,Arts & Design,20.35,Five,In stock,54
+Book Title Item #1141,Self-Help,16.39,Five,In stock,47
+Book Title Item #1142,Non-Fiction,54.87,Three,In stock,48
+Book Title Item #1143,Arts & Design,12.44,Four,Out of stock,48
+Book Title Item #1144,Fiction,29.88,Two,In stock,50
+Book Title Item #1145,History,18.92,One,In stock,49
+Book Title Item #1146,Science & Tech,9.65,One,In stock,43
+Book Title Item #1147,Non-Fiction,64.62,Four,Out of stock,39
+Book Title Item #1148,Fiction,52.29,Four,In stock,48
+Book Title Item #1149,Business,67.46,Four,Out of stock,42
+Book Title Item #1150,Self-Help,39.75,One,In stock,47
+Book Title Item #1151,History,18.94,Three,In stock,49
+Book Title Item #1152,Non-Fiction,28.17,Four,In stock,38
+Book Title Item #1153,Non-Fiction,15.97,Three,In stock,50
+Book Title Item #1154,Science & Tech,31.93,Four,In stock,45
+Book Title Item #1155,Science & Tech,62.42,Three,In stock,49
+Book Title Item #1156,Business,28.29,Five,In stock,34
+Book Title Item #1157,Self-Help,44.24,Four,In stock,42
+Book Title Item #1158,Business,42.4,Three,In stock,42
+Book Title Item #1159,Fiction,18.16,Three,In stock,36
+Book Title Item #1160,Fiction,18.4,Four,In stock,42
+Book Title Item #1161,Business,51.76,Five,In stock,42
+Book Title Item #1162,Self-Help,22.5,Three,In stock,35
+Book Title Item #1163,Business,45.53,Three,In stock,53
+Book Title Item #1164,Self-Help,22.28,Five,In stock,34
+Book Title Item #1165,Self-Help,24.92,Four,In stock,42
+Book Title Item #1166,Arts & Design,45.04,Three,In stock,47
+Book Title Item #1167,History,33.39,Four,In stock,50
+Book Title Item #1168,Self-Help,30.61,Three,In stock,52
+Book Title Item #1169,Science & Tech,21.17,Four,In stock,46
+Book Title Item #1170,Self-Help,39.32,Three,In stock,49
+Book Title Item #1171,Self-Help,23.12,Five,In stock,44
+Book Title Item #1172,Self-Help,48.3,Four,In stock,36
+Book Title Item #1173,Arts & Design,281.01,Four,In stock,45
+Book Title Item #1174,Arts & Design,30.43,Four,In stock,57
+Book Title Item #1175,Fiction,48.75,Five,In stock,45
+Book Title Item #1176,Arts & Design,43.15,Five,In stock,36
+Book Title Item #1177,Science & Tech,44.92,Four,In stock,40
+Book Title Item #1178,Science & Tech,34.29,Four,In stock,55
+Book Title Item #1179,Arts & Design,18.95,Four,In stock,44
+Book Title Item #1180,Business,56.14,Four,In stock,44
+Book Title Item #1181,History,36.46,Two,Out of stock,41
+Book Title Item #1182,Arts & Design,25.78,Four,In stock,53
+Book Title Item #1183,Self-Help,24.67,Three,In stock,31
+Book Title Item #1184,Non-Fiction,79.39,Five,In stock,42
+Book Title Item #1185,History,33.12,Three,In stock,51
+Book Title Item #1186,History,16.64,Five,In stock,46
+Book Title Item #1187,Science & Tech,65.88,Four,In stock,36
+Book Title Item #1188,History,30.35,Four,Out of stock,42
+Book Title Item #1189,Arts & Design,26.62,Four,In stock,45
+Book Title Item #1190,Self-Help,19.79,Two,In stock,65
+Book Title Item #1191,Self-Help,37.41,Three,In stock,50
+Book Title Item #1192,Fiction,57.7,Two,In stock,42
+Book Title Item #1193,Self-Help,38.11,Four,In stock,47
+Book Title Item #1194,Self-Help,27.97,Three,In stock,41
+Book Title Item #1195,Science & Tech,15.18,Four,In stock,46
+Book Title Item #1196,Self-Help,31.44,Three,In stock,58
+Book Title Item #1197,Fiction,42.13,Two,In stock,33
+Book Title Item #1198,Non-Fiction,22.48,Three,In stock,47
+Book Title Item #1199,Arts & Design,67.38,Five,In stock,49
+Book Title Item #1200,Science & Tech,28.36,Four,In stock,40
+Book Title Item #1201,Non-Fiction,43.79,Three,In stock,42
+Book Title Item #1202,,301.61,Four,In stock,37
+Book Title Item #1203,Business,322.7,Two,Out of stock,39
+Book Title Item #1204,History,39.27,Five,Out of stock,41
+Book Title Item #1205,Business,77.44,Four,In stock,47
+Book Title Item #1206,Self-Help,39.77,Three,In stock,48
+Book Title Item #1207,Non-Fiction,,Four,In stock,43
+Book Title Item #1208,Self-Help,40.98,Two,In stock,43
+Book Title Item #1209,History,19.08,Five,In stock,39
+Book Title Item #1210,Science & Tech,65.14,Two,In stock,48
+Book Title Item #1211,,43.93,Four,In stock,33
+Book Title Item #1212,,48.62,Three,In stock,45
+Book Title Item #1213,History,60.61,Four,In stock,40
+Book Title Item #1214,Fiction,61.96,Four,In stock,47
+Book Title Item #1215,History,20.05,Four,In stock,39
+Book Title Item #1216,Arts & Design,,Four,Out of stock,43
+Book Title Item #1217,Fiction,23.46,Five,In stock,42
+Book Title Item #1218,Non-Fiction,18.2,One,In stock,51
+Book Title Item #1219,Self-Help,28.66,Three,In stock,38
+Book Title Item #1220,Self-Help,19.28,Three,In stock,48
+Book Title Item #1221,Business,19.97,Five,In stock,41
+Book Title Item #1222,Self-Help,43.2,Three,In stock,49
+Book Title Item #1223,Science & Tech,14.33,Four,In stock,57
+Book Title Item #1224,Arts & Design,37.18,Four,In stock,51
+Book Title Item #1225,History,56.03,Three,In stock,53
+Book Title Item #1226,Business,55.79,Three,In stock,49
+Book Title Item #1227,Science & Tech,49.41,Three,In stock,53
+Book Title Item #1228,Science & Tech,52.74,Three,In stock,45
+Book Title Item #1229,Fiction,51.13,Three,In stock,42
+Book Title Item #1230,Self-Help,19.71,One,In stock,37
+Book Title Item #1231,Non-Fiction,31.98,Five,Out of stock,46
+Book Title Item #1232,Non-Fiction,50.1,Five,In stock,38
+Book Title Item #1233,Business,28.12,Three,Out of stock,59
+Book Title Item #1234,Arts & Design,28.27,Three,In stock,48
+Book Title Item #1235,Non-Fiction,41.7,One,In stock,44
+Book Title Item #1236,History,83.65,Four,Out of stock,50
+Book Title Item #1237,Non-Fiction,54.85,Five,In stock,46
+Book Title Item #1238,Business,14.54,Two,In stock,47
+Book Title Item #1239,Non-Fiction,39.46,Two,In stock,42
+Book Title Item #1240,History,21.01,Four,In stock,39
+Book Title Item #1241,Fiction,56.76,Four,Out of stock,49
+Book Title Item #1242,Arts & Design,68.31,One,In stock,47
+Book Title Item #1243,Business,90.89,Four,In stock,45
+Book Title Item #1244,Fiction,55.63,Three,In stock,42
+Book Title Item #1245,Fiction,47.03,Three,In stock,49
+Book Title Item #1246,Fiction,47.97,Four,In stock,46
+Book Title Item #1247,Science & Tech,20.78,Five,In stock,36
+Book Title Item #1248,Arts & Design,35.12,Three,In stock,41
+Book Title Item #1249,Self-Help,40.0,Five,In stock,60
+Book Title Item #1250,Arts & Design,25.44,Three,Out of stock,54
+Book Title Item #1251,Science & Tech,46.02,Four,In stock,42
+Book Title Item #1252,Self-Help,97.53,Four,In stock,40
+Book Title Item #1253,Arts & Design,13.53,Five,In stock,57
+Book Title Item #1254,Fiction,49.81,Five,In stock,57
+Book Title Item #1255,Business,35.71,Two,In stock,60
+Book Title Item #1256,Self-Help,46.66,Five,Out of stock,45
+Book Title Item #1257,History,39.6,Five,In stock,46
+Book Title Item #1258,History,31.44,Four,In stock,44
+Book Title Item #1259,Non-Fiction,533.42,Three,In stock,50
+Book Title Item #1260,Self-Help,51.57,Five,In stock,59
+Book Title Item #1261,Business,46.17,Five,In stock,40
+Book Title Item #1262,Science & Tech,46.26,Three,In stock,51
+Book Title Item #1263,Fiction,489.17,Five,In stock,49
+Book Title Item #1264,Non-Fiction,27.87,One,Out of stock,49
+Book Title Item #1265,History,35.67,Two,In stock,43
+Book Title Item #1266,Science & Tech,23.04,Four,Out of stock,37
+Book Title Item #1267,Science & Tech,,Four,In stock,36
+Book Title Item #1268,Fiction,17.66,Four,In stock,42
+Book Title Item #1269,Self-Help,,One,In stock,58
+Book Title Item #1270,History,44.04,Five,In stock,49
+Book Title Item #1271,Business,92.71,One,Out of stock,34
+Book Title Item #1272,Science & Tech,19.36,Two,In stock,52
+Book Title Item #1273,Fiction,31.25,One,In stock,34
+Book Title Item #1274,Business,84.04,Four,In stock,42
+Book Title Item #1275,Self-Help,47.8,Five,In stock,46
+Book Title Item #1276,History,42.51,Four,In stock,56
+Book Title Item #1277,Self-Help,22.3,Five,In stock,29
+Book Title Item #1278,Science & Tech,32.93,One,In stock,46
+Book Title Item #1279,Business,26.16,Four,In stock,40
+Book Title Item #1280,Business,45.56,Four,In stock,41
+Book Title Item #1281,Business,46.12,Four,In stock,47
+Book Title Item #1282,Science & Tech,28.71,One,In stock,43
+Book Title Item #1283,Science & Tech,31.66,Four,In stock,46
+Book Title Item #1284,Self-Help,65.45,Four,In stock,51
+Book Title Item #1285,Non-Fiction,69.4,Four,In stock,42
+Book Title Item #1286,Self-Help,30.16,Four,In stock,41
+Book Title Item #1287,History,,Two,In stock,52
+Book Title Item #1288,Fiction,18.77,Four,In stock,54
+Book Title Item #1289,Business,31.6,Two,In stock,42
+Book Title Item #1290,Non-Fiction,37.27,Five,In stock,35
+Book Title Item #1291,Fiction,14.97,Four,In stock,46
+Book Title Item #1292,Non-Fiction,44.43,Two,In stock,48
+Book Title Item #1293,Arts & Design,32.23,Five,In stock,39
+Book Title Item #1294,Self-Help,72.06,Four,In stock,44
+Book Title Item #1295,Science & Tech,73.97,One,In stock,45
+Book Title Item #1296,Business,93.97,Four,In stock,44
+Book Title Item #1297,Self-Help,44.37,Three,In stock,39
+Book Title Item #1298,Fiction,31.49,Five,In stock,48
+Book Title Item #1299,Arts & Design,42.67,Five,In stock,43
+Book Title Item #1300,Arts & Design,32.65,Five,In stock,53
+Book Title Item #1301,Arts & Design,65.67,Four,In stock,41
+Book Title Item #1302,Fiction,51.61,Four,In stock,49
+Book Title Item #1303,Fiction,28.58,Four,In stock,37
+Book Title Item #1304,Fiction,52.07,Two,In stock,55
+Book Title Item #1305,Fiction,13.37,Four,In stock,59
+Book Title Item #1306,Arts & Design,76.56,Four,In stock,51
+Book Title Item #1307,Arts & Design,25.25,Two,In stock,48
+Book Title Item #1308,Non-Fiction,71.3,Three,In stock,42
+Book Title Item #1309,Self-Help,28.57,Five,In stock,53
+Book Title Item #1310,,318.29,Five,Out of stock,47
+Book Title Item #1311,Science & Tech,30.84,Two,In stock,43
+Book Title Item #1312,Arts & Design,46.49,Two,In stock,41
+Book Title Item #1313,Science & Tech,19.31,Three,In stock,38
+Book Title Item #1314,Self-Help,10.06,Five,In stock,48
+Book Title Item #1315,Self-Help,68.62,Two,Out of stock,41
+Book Title Item #1316,Science & Tech,76.17,Four,In stock,50
+Book Title Item #1317,Arts & Design,28.54,Two,In stock,46
+Book Title Item #1318,Science & Tech,23.18,Four,Out of stock,39
+Book Title Item #1319,Non-Fiction,32.78,Three,In stock,34
+Book Title Item #1320,History,19.53,Four,In stock,46
+Book Title Item #1321,Arts & Design,44.22,Three,In stock,55
+Book Title Item #1322,Arts & Design,30.21,Four,In stock,47
+Book Title Item #1323,Business,,Three,In stock,48
+Book Title Item #1324,Fiction,26.71,Four,In stock,48
+Book Title Item #1325,History,34.95,Five,In stock,37
+Book Title Item #1326,Self-Help,30.46,Two,In stock,47
+Book Title Item #1327,Arts & Design,35.42,Five,In stock,40
+Book Title Item #1328,Science & Tech,25.48,Four,In stock,41
+Book Title Item #1329,History,60.99,Two,Out of stock,59
+Book Title Item #1330,Business,44.22,Three,In stock,43
+Book Title Item #1331,Self-Help,35.55,Two,In stock,56
+Book Title Item #1332,Fiction,20.88,Four,Out of stock,39
+Book Title Item #1333,Fiction,59.02,Four,In stock,43
+Book Title Item #1334,Business,26.16,Two,In stock,49
+Book Title Item #1335,Business,38.38,Four,In stock,40
+Book Title Item #1336,Science & Tech,26.75,Five,In stock,48
+Book Title Item #1337,Arts & Design,51.62,Five,In stock,44
+Book Title Item #1338,Fiction,11.72,Four,Out of stock,43
+Book Title Item #1339,Self-Help,26.46,Five,In stock,56
+Book Title Item #1340,History,52.18,Four,In stock,43
+Book Title Item #1341,Self-Help,24.08,Three,In stock,59
+Book Title Item #1342,Non-Fiction,12.1,Five,In stock,44
+Book Title Item #1343,Non-Fiction,25.49,Four,In stock,47
+Book Title Item #1344,Business,42.19,Four,In stock,47
+Book Title Item #1345,Science & Tech,18.92,Four,In stock,45
+Book Title Item #1346,Non-Fiction,33.74,Five,In stock,54
+Book Title Item #1347,Fiction,33.78,Five,In stock,40
+Book Title Item #1348,Self-Help,83.13,Three,In stock,54
+Book Title Item #1349,Self-Help,22.86,Three,In stock,43
+Book Title Item #1350,Business,78.59,Four,In stock,51
+Book Title Item #1351,Arts & Design,22.93,Four,In stock,42
+Book Title Item #1352,Arts & Design,48.38,Three,In stock,53
+Book Title Item #1353,History,31.02,Four,Out of stock,49
+Book Title Item #1354,Business,28.65,Four,In stock,55
+Book Title Item #1355,History,16.37,Three,Out of stock,60
+Book Title Item #1356,Arts & Design,48.22,Two,In stock,42
+Book Title Item #1357,Business,60.09,Three,Out of stock,40
+Book Title Item #1358,Business,47.39,Five,In stock,41
+Book Title Item #1359,Business,25.2,Three,Out of stock,44
+Book Title Item #1360,Arts & Design,30.16,Two,In stock,55
+Book Title Item #1361,History,33.11,Four,In stock,39
+Book Title Item #1362,History,50.38,Three,Out of stock,40
+Book Title Item #1363,Business,64.2,One,In stock,34
+Book Title Item #1364,Non-Fiction,,Three,In stock,35
+Book Title Item #1365,Science & Tech,12.89,Four,In stock,41
+Book Title Item #1366,Arts & Design,12.81,Four,Out of stock,47
+Book Title Item #1367,Science & Tech,23.95,Three,In stock,50
+Book Title Item #1368,Science & Tech,58.84,Three,In stock,42
+Book Title Item #1369,History,48.85,Five,In stock,49
+Book Title Item #1370,History,51.83,Three,In stock,41
+Book Title Item #1371,Non-Fiction,24.79,Three,In stock,50
+Book Title Item #1372,Science & Tech,28.91,Three,In stock,36
+Book Title Item #1373,Science & Tech,57.92,Four,In stock,39
+Book Title Item #1374,Business,80.5,Four,Out of stock,38
+Book Title Item #1375,History,58.54,Three,In stock,36
+Book Title Item #1376,Science & Tech,58.56,Four,In stock,37
+Book Title Item #1377,,24.21,One,In stock,32
+Book Title Item #1378,Non-Fiction,50.71,Three,In stock,45
+Book Title Item #1379,Self-Help,17.51,Four,In stock,51
+Book Title Item #1380,Self-Help,62.95,Three,In stock,44
+Book Title Item #1381,Arts & Design,,Four,In stock,59
+Book Title Item #1382,Arts & Design,31.7,Three,In stock,46
+Book Title Item #1383,Non-Fiction,10.86,Four,In stock,41
+Book Title Item #1384,Self-Help,31.18,One,In stock,37
+Book Title Item #1385,Science & Tech,36.55,Five,In stock,50
+Book Title Item #1386,History,38.5,Two,In stock,46
+Book Title Item #1387,Non-Fiction,31.94,Five,In stock,38
+Book Title Item #1388,Business,27.44,Three,In stock,43
+Book Title Item #1389,Self-Help,22.79,Four,In stock,38
+Book Title Item #1390,Non-Fiction,80.47,Three,In stock,54
+Book Title Item #1391,Fiction,92.47,Five,In stock,37
+Book Title Item #1392,Fiction,40.99,Two,In stock,53
+Book Title Item #1393,Arts & Design,23.76,Two,In stock,47
+Book Title Item #1394,History,20.3,Four,In stock,36
+Book Title Item #1395,Science & Tech,31.82,Two,Out of stock,57
+Book Title Item #1396,History,90.59,Two,Out of stock,47
+Book Title Item #1397,History,42.03,Five,In stock,44
+Book Title Item #1398,History,66.2,Five,In stock,42
+Book Title Item #1399,History,65.55,Three,In stock,50
+Book Title Item #1400,Business,51.56,Five,In stock,39
+Book Title Item #1401,Business,19.47,Four,In stock,44
+Book Title Item #1402,Arts & Design,65.68,Three,In stock,44
+Book Title Item #1403,Non-Fiction,456.66,Four,In stock,44
+Book Title Item #1404,Fiction,24.29,Four,In stock,38
+Book Title Item #1405,History,42.95,Five,In stock,50
+Book Title Item #1406,Arts & Design,30.15,Three,In stock,49
+Book Title Item #1407,Non-Fiction,42.72,Four,In stock,45
+Book Title Item #1408,Fiction,17.7,One,In stock,43
+Book Title Item #1409,Self-Help,24.32,Two,In stock,38
+Book Title Item #1410,Science & Tech,50.45,One,In stock,47
+Book Title Item #1411,Business,127.55,Five,In stock,40
+Book Title Item #1412,Self-Help,73.6,Five,In stock,49
+Book Title Item #1413,Fiction,14.86,Four,In stock,46
+Book Title Item #1414,Self-Help,31.76,Four,In stock,44
+Book Title Item #1415,Science & Tech,26.33,Three,In stock,43
+Book Title Item #1416,Arts & Design,36.38,Two,Out of stock,47
+Book Title Item #1417,Fiction,42.68,Three,In stock,47
+Book Title Item #1418,Self-Help,27.19,Three,In stock,43
+Book Title Item #1419,Business,61.28,Four,In stock,43
+Book Title Item #1420,Business,66.92,Four,In stock,35
+Book Title Item #1421,Non-Fiction,64.99,One,In stock,41
+Book Title Item #1422,,22.18,One,Out of stock,42
+Book Title Item #1423,History,,Two,In stock,46
+Book Title Item #1424,Self-Help,61.88,Three,In stock,46
+Book Title Item #1425,Arts & Design,55.89,Five,Out of stock,42
+Book Title Item #1426,Fiction,53.92,Four,In stock,48
+Book Title Item #1427,Fiction,74.3,Five,In stock,44
+Book Title Item #1428,Arts & Design,28.8,Four,In stock,44
+Book Title Item #1429,Self-Help,13.59,Three,In stock,45
+Book Title Item #1430,Arts & Design,31.53,Two,In stock,57
+Book Title Item #1431,Science & Tech,32.51,Five,In stock,51
+Book Title Item #1432,Arts & Design,117.69,Four,In stock,46
+Book Title Item #1433,Business,25.98,Two,In stock,44
+Book Title Item #1434,Arts & Design,66.14,Four,Out of stock,43
+Book Title Item #1435,Fiction,105.62,Four,In stock,53
+Book Title Item #1436,Business,93.23,Four,In stock,47
+Book Title Item #1437,Fiction,36.61,Five,In stock,35
+Book Title Item #1438,Non-Fiction,56.34,Four,In stock,41
+Book Title Item #1439,History,41.9,Four,In stock,54
+Book Title Item #1440,Fiction,23.7,One,Out of stock,33
+Book Title Item #1441,,71.92,One,In stock,42
+Book Title Item #1442,Non-Fiction,50.22,Two,In stock,49
+Book Title Item #1443,Fiction,22.13,One,In stock,53
+Book Title Item #1444,,30.2,Four,In stock,44
+Book Title Item #1445,Arts & Design,34.04,Four,In stock,38
+Book Title Item #1446,History,67.46,Two,In stock,50
+Book Title Item #1447,,19.05,Five,In stock,52
+Book Title Item #1448,Non-Fiction,19.01,Two,In stock,43
+Book Title Item #1449,Science & Tech,41.46,Three,In stock,46
+Book Title Item #1450,Self-Help,21.39,Three,In stock,43
+Book Title Item #1451,Non-Fiction,33.57,Three,In stock,43
+Book Title Item #1452,Arts & Design,28.25,Three,In stock,45
+Book Title Item #1453,Non-Fiction,11.19,Four,In stock,41
+Book Title Item #1454,Science & Tech,25.34,Three,In stock,51
+Book Title Item #1455,Non-Fiction,32.99,Five,Out of stock,46
+Book Title Item #1456,Science & Tech,59.73,One,Out of stock,43
+Book Title Item #1457,Fiction,94.08,Two,In stock,54
+Book Title Item #1458,Science & Tech,24.02,One,In stock,42
+Book Title Item #1459,Science & Tech,40.49,Four,In stock,37
+Book Title Item #1460,History,48.08,One,In stock,42
+Book Title Item #1461,,112.77,Five,In stock,47
+Book Title Item #1462,Science & Tech,27.5,Four,In stock,43
+Book Title Item #1463,Self-Help,23.28,Four,In stock,47
+Book Title Item #1464,Fiction,,Four,Out of stock,37
+Book Title Item #1465,Arts & Design,23.19,Two,In stock,53
+Book Title Item #1466,History,52.16,Two,In stock,32
+Book Title Item #1467,Self-Help,385.77,Three,In stock,50
+Book Title Item #1468,Business,42.25,Four,In stock,53
+Book Title Item #1469,Fiction,40.75,Three,In stock,34
+Book Title Item #1470,Fiction,72.71,Two,In stock,36
+Book Title Item #1471,Business,33.15,Five,In stock,45
+Book Title Item #1472,Arts & Design,55.47,One,In stock,49
+Book Title Item #1473,Science & Tech,32.84,Five,In stock,36
+Book Title Item #1474,Self-Help,19.34,Four,In stock,45
+Book Title Item #1475,Non-Fiction,66.81,Three,In stock,43
+Book Title Item #1476,History,43.62,Two,In stock,59
+Book Title Item #1477,Non-Fiction,63.61,Two,In stock,61
+Book Title Item #1478,Business,46.26,Four,In stock,50
+Book Title Item #1479,Fiction,49.26,Four,In stock,49
+Book Title Item #1480,Arts & Design,23.55,Four,In stock,46
+Book Title Item #1481,Fiction,48.58,Five,In stock,52
+Book Title Item #1482,History,72.34,Four,In stock,53
+Book Title Item #1483,Fiction,35.38,Two,In stock,40
+Book Title Item #1484,Fiction,26.77,Three,In stock,44
+Book Title Item #1485,History,56.55,Five,In stock,40
+Book Title Item #1486,Self-Help,18.05,Three,In stock,45
+Book Title Item #1487,,77.29,One,In stock,50
+Book Title Item #1488,History,32.61,Four,In stock,44
+Book Title Item #1489,Arts & Design,55.56,Three,In stock,41
+Book Title Item #1490,Business,43.81,Five,In stock,37
+Book Title Item #1491,Fiction,66.99,Four,In stock,56
+Book Title Item #1492,Arts & Design,68.86,Two,In stock,52
+Book Title Item #1493,Fiction,41.35,Five,In stock,40
+Book Title Item #1494,Business,15.48,Three,In stock,49
+Book Title Item #1495,Self-Help,84.87,Three,In stock,48
+Book Title Item #1496,Arts & Design,17.22,Three,In stock,49
+Book Title Item #1497,Science & Tech,47.95,One,In stock,55
+Book Title Item #1498,Science & Tech,73.02,Four,In stock,41
+Book Title Item #1499,Science & Tech,49.13,Two,In stock,51
+Book Title Item #1500,Self-Help,26.73,Three,In stock,36
+Book Title Item #1501,Self-Help,41.82,Three,In stock,48
+Book Title Item #1502,Business,27.89,Four,In stock,52
+Book Title Item #1503,Fiction,27.41,Five,Out of stock,51
+Book Title Item #1504,Business,,Two,In stock,37
+Book Title Item #1505,Business,8.75,Three,In stock,43
+Book Title Item #1506,Self-Help,,Three,In stock,39
+Book Title Item #1507,Science & Tech,40.84,Two,In stock,65
+Book Title Item #1508,Non-Fiction,39.53,Four,In stock,51
+Book Title Item #1509,Fiction,24.65,Four,In stock,36
+Book Title Item #1510,Self-Help,48.95,Two,Out of stock,40
+Book Title Item #1511,Science & Tech,38.36,Three,Out of stock,30
+Book Title Item #1512,Arts & Design,98.45,Two,In stock,33
+Book Title Item #1513,Non-Fiction,50.16,Four,In stock,45
+Book Title Item #1514,Non-Fiction,28.35,Two,In stock,43
+Book Title Item #1515,Self-Help,55.92,Five,In stock,56
+Book Title Item #1516,History,14.43,Four,In stock,54
+Book Title Item #1517,Fiction,39.39,Three,In stock,43
+Book Title Item #1518,Non-Fiction,43.66,Four,In stock,47
+Book Title Item #1519,Self-Help,39.63,Five,In stock,52
+Book Title Item #1520,Self-Help,23.88,Four,In stock,50
+Book Title Item #1521,Science & Tech,39.03,Two,Out of stock,35
+Book Title Item #1522,Arts & Design,19.75,Three,In stock,43
+Book Title Item #1523,History,85.72,Five,In stock,52
+Book Title Item #1524,,39.2,Four,In stock,47
+Book Title Item #1525,Business,48.0,Four,In stock,38
+Book Title Item #1526,Arts & Design,16.71,Five,In stock,41
+Book Title Item #1527,Arts & Design,27.13,Five,In stock,51
+Book Title Item #1528,Science & Tech,50.76,Five,In stock,42
+Book Title Item #1529,Non-Fiction,62.01,Two,In stock,52
+Book Title Item #1530,Non-Fiction,22.43,Four,In stock,37
+Book Title Item #1531,Science & Tech,47.89,Four,In stock,55
+Book Title Item #1532,Self-Help,30.64,Four,In stock,39
+Book Title Item #1533,Non-Fiction,13.88,Four,In stock,47
+Book Title Item #1534,History,26.65,Two,In stock,39
+Book Title Item #1535,Fiction,63.1,Four,In stock,39
+Book Title Item #1536,Arts & Design,66.77,Four,In stock,44
+Book Title Item #1537,Arts & Design,42.86,Two,Out of stock,50
+Book Title Item #1538,History,40.22,Four,In stock,48
+Book Title Item #1539,Non-Fiction,30.34,Two,In stock,46
+Book Title Item #1540,Arts & Design,10.28,Three,In stock,57
+Book Title Item #1541,Business,45.45,One,In stock,42
+Book Title Item #1542,Fiction,23.35,Three,In stock,57
+Book Title Item #1543,Fiction,71.98,Four,Out of stock,34
+Book Title Item #1544,Arts & Design,19.12,Four,In stock,45
+Book Title Item #1545,,,Four,In stock,42
+Book Title Item #1546,Arts & Design,13.63,Five,In stock,47
+Book Title Item #1547,Science & Tech,118.39,Three,In stock,36
+Book Title Item #1548,Arts & Design,17.07,Two,Out of stock,43
+Book Title Item #1549,Business,66.88,Five,In stock,43
+Book Title Item #1550,Self-Help,26.25,Two,In stock,49
+Book Title Item #1551,Fiction,50.61,Five,In stock,41
+Book Title Item #1552,Arts & Design,86.03,Five,In stock,54
+Book Title Item #1553,Business,32.12,Four,In stock,46
+Book Title Item #1554,Science & Tech,112.64,Five,In stock,43
+Book Title Item #1555,Science & Tech,87.16,Two,In stock,50
+Book Title Item #1556,Fiction,15.92,Three,In stock,35
+Book Title Item #1557,History,36.96,Four,In stock,39
+Book Title Item #1558,Arts & Design,32.73,Three,In stock,44
+Book Title Item #1559,Non-Fiction,38.26,Five,In stock,49
+Book Title Item #1560,Science & Tech,30.44,One,In stock,48
+Book Title Item #1561,Self-Help,22.51,Four,In stock,41
+Book Title Item #1562,Self-Help,35.79,Four,Out of stock,44
+Book Title Item #1563,Science & Tech,535.63,Four,In stock,37
+Book Title Item #1564,History,8.7,Three,In stock,29
+Book Title Item #1565,History,59.07,Three,In stock,35
+Book Title Item #1566,Business,40.75,Five,In stock,53
+Book Title Item #1567,Self-Help,78.29,Two,In stock,39
+Book Title Item #1568,Business,29.14,Five,In stock,45
+Book Title Item #1569,Self-Help,27.04,Four,In stock,45
+Book Title Item #1570,Arts & Design,23.87,Four,In stock,35
+Book Title Item #1571,Arts & Design,48.36,Four,In stock,40
+Book Title Item #1572,Non-Fiction,12.82,Three,In stock,48
+Book Title Item #1573,Arts & Design,24.78,Four,In stock,30
+Book Title Item #1574,Non-Fiction,41.07,Five,In stock,20
+Book Title Item #1575,Arts & Design,15.78,Three,In stock,35
+Book Title Item #1576,Fiction,38.87,Five,In stock,41
+Book Title Item #1577,Arts & Design,70.99,Four,In stock,46
+Book Title Item #1578,,66.21,Two,In stock,49
+Book Title Item #1579,Science & Tech,34.93,Three,In stock,46
+Book Title Item #1580,Business,60.84,Five,Out of stock,50
+Book Title Item #1581,Science & Tech,47.34,Three,In stock,46
+Book Title Item #1582,History,41.05,Five,In stock,48
+Book Title Item #1583,Business,51.48,Five,In stock,38
+Book Title Item #1584,History,30.38,Three,In stock,54
+Book Title Item #1585,Non-Fiction,31.87,Two,In stock,44
+Book Title Item #1586,Non-Fiction,46.66,Four,Out of stock,43
+Book Title Item #1587,Fiction,36.99,Three,In stock,42
+Book Title Item #1588,Arts & Design,65.25,Four,Out of stock,35
+Book Title Item #1589,Business,55.15,Three,In stock,30
+Book Title Item #1590,History,54.99,Four,In stock,59
+Book Title Item #1591,Science & Tech,49.26,Four,In stock,37
+Book Title Item #1592,Non-Fiction,40.81,Three,Out of stock,45
+Book Title Item #1593,Arts & Design,54.32,Three,In stock,39
+Book Title Item #1594,Non-Fiction,62.42,Three,In stock,41
+Book Title Item #1595,Science & Tech,45.07,Three,In stock,48
+Book Title Item #1596,Arts & Design,23.44,Four,In stock,51
+Book Title Item #1597,Arts & Design,37.43,Five,In stock,41
+Book Title Item #1598,History,16.05,Three,In stock,58
+Book Title Item #1599,History,69.52,Four,In stock,51
+Book Title Item #1600,Business,54.42,Four,In stock,56
+Book Title Item #1601,Business,23.28,Three,In stock,35
+Book Title Item #1602,Self-Help,26.04,Three,In stock,51
+Book Title Item #1603,Self-Help,71.13,Five,In stock,38
+Book Title Item #1604,Fiction,25.24,Four,In stock,47
+Book Title Item #1605,Non-Fiction,15.6,Four,In stock,52
+Book Title Item #1606,Business,,Four,In stock,50
+Book Title Item #1607,History,31.6,One,Out of stock,36
+Book Title Item #1608,Science & Tech,28.89,Four,Out of stock,42
+Book Title Item #1609,History,30.15,Four,In stock,58
+Book Title Item #1610,Non-Fiction,53.2,Four,In stock,36
+Book Title Item #1611,Self-Help,27.15,Three,Out of stock,43
+Book Title Item #1612,History,46.02,Two,In stock,47
+Book Title Item #1613,Fiction,19.51,Two,In stock,58
+Book Title Item #1614,Non-Fiction,67.64,Five,Out of stock,43
+Book Title Item #1615,Self-Help,20.55,Three,In stock,53
+Book Title Item #1616,Science & Tech,37.56,Four,In stock,39
+Book Title Item #1617,Self-Help,34.53,One,In stock,35
+Book Title Item #1618,Arts & Design,44.14,One,In stock,41
+Book Title Item #1619,Fiction,55.81,Four,In stock,43
+Book Title Item #1620,Non-Fiction,29.34,Four,In stock,31
+Book Title Item #1621,Science & Tech,56.58,Four,In stock,45
+Book Title Item #1622,Fiction,,Three,In stock,41
+Book Title Item #1623,Self-Help,33.16,Four,In stock,55
+Book Title Item #1624,Fiction,87.05,Two,In stock,36
+Book Title Item #1625,Non-Fiction,44.1,Two,In stock,43
+Book Title Item #1626,Business,30.88,Four,In stock,50
+Book Title Item #1627,Fiction,38.81,Three,In stock,44
+Book Title Item #1628,Arts & Design,87.05,Three,In stock,47
+Book Title Item #1629,Fiction,45.0,Four,In stock,56
+Book Title Item #1630,Self-Help,44.98,Four,In stock,39
+Book Title Item #1631,Self-Help,47.18,Five,In stock,54
+Book Title Item #1632,Science & Tech,59.1,Three,In stock,39
+Book Title Item #1633,Self-Help,44.61,One,In stock,46
+Book Title Item #1634,History,50.45,Three,In stock,37
+Book Title Item #1635,Non-Fiction,,Five,In stock,38
+Book Title Item #1636,Non-Fiction,40.8,Four,Out of stock,43
+Book Title Item #1637,Business,60.76,Four,In stock,45
+Book Title Item #1638,Business,24.72,One,In stock,36
+Book Title Item #1639,Non-Fiction,37.46,Four,In stock,52
+Book Title Item #1640,Arts & Design,32.09,One,In stock,40
+Book Title Item #1641,Business,16.97,Four,Out of stock,36
+Book Title Item #1642,Science & Tech,18.18,Five,In stock,49
+Book Title Item #1643,Self-Help,37.29,Five,In stock,53
+Book Title Item #1644,,62.23,Four,In stock,61
+Book Title Item #1645,Business,41.39,Four,In stock,53
+Book Title Item #1646,Non-Fiction,27.2,Five,In stock,38
+Book Title Item #1647,History,72.99,Four,In stock,44
+Book Title Item #1648,Fiction,30.07,One,In stock,35
+Book Title Item #1649,Self-Help,21.18,Four,In stock,50
+Book Title Item #1650,Non-Fiction,87.81,Three,In stock,41
